@@ -2,7 +2,7 @@ Notes:
 1. Based on work done by Dr. Satyam Mukherjee
     a. https://doi.org/10.1142/S0219525913500318
     b. https://doi.org/10.1016/j.physa.2013.09.027
-2. Monorepo
+2. Ball by ball data available on https://cricsheet.org/
 3. Following folders to be created in same location
     a. tests
     b. teamwise
