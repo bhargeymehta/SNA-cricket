@@ -49,7 +49,7 @@ for index, match_file in enumerate(match_files, 1):
                 forward_label = scorer + ',' + partner
                 backward_label = partner + ',' + scorer
 
-                if forward_label not in batsmen_data:
+                if forward_label not in batsmen_data[team]:
                     batsmen_data[team][forward_label] = 0
                     batsmen_data[team][backward_label] = 0
 
@@ -86,7 +86,6 @@ for index, match_file in enumerate(match_files, 1):
                 if label not in bowlers_data[team]:
                     bowlers_data[team][label] = 0
                 bowlers_data[team][label] += times
-
 
     completed_width = (index * width) // len(match_files)
     completed_percent = str(int(index * 100 / len(match_files))).zfill(3)
