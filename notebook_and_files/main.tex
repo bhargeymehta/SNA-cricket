@@ -1,0 +1,99 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fouriernc}
+\usepackage[bottom=1.75cm,top=1cm,left=1cm,right=1cm]{geometry}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lipsum}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+% \pagestyle{fancy}
+% \fancyhf{}
+% \rhead{Purvil Mehta | Bhargey Mehta}
+% \lhead{SARS Model}
+\rfoot{\thepage}
+\begin{document}
+
+\twocolumn
+[
+\begin{center}
+\scshape
+
+\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt}
+\rule{\textwidth}{0.4pt} 
+
+
+{\huge Complex Network Analysis in Cricket  \\ \vspace{0.25\baselineskip}}
+\large{Rag Patel (201701008) | Purvil Mehta (201701073) | Bhargey Mehta (201701074)}
+\vspace{0.25\baselineskip}
+
+\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3pt} 
+\rule{\textwidth}{1.6pt}
+\end{center} 
+]
+
+\vspace{0.25cm}
+
+\section{Abstract}
+This report describes the different complex network analysis to understand the each player performance within the team. We analyze the performance of each player by constructing two networks PIB (Performance Index of Batsman) and QIB (Quality Index of Bowler). We also analyze the BPN (Batsmen Partnership Network) for different team and studied the player-player relationship within the team. We study the community structure provided by Newman, community roles, different centrality indices, page rank (Performance Index based on partnership), clustering coefficient and degree distribution. We further analyze the performance, relative importance and the effect of removing the player from team, based on the different centrality score.
+
+\section{Introduction}
+The main goal of this network analysis is to understand the interactions of individual team members within the team. Cricket team is the combination of 11 players interacting with each other with same goal of winning a game. Our goal is to analyse how these players co-ordinate with different roles such as openers, top order, middle order and lower order. Although the success and failures of the game depend upon the combined performance of the whole team, individual efforts also affect the performance of the other players.
+
+The game of the cricket is the series of batsmen where they bat in partnership when they face a bowler. The better the partnership between the players, the more the chances are for their team to win the match. All the players contribute in the batting partnership with other players in different manner. Openers start the inning with new ball, handling in swing and out swing. The better the partnership of the openers, not only do they score more runs, they also put more pressure on the opposition team. Middle order partnerships are either defensive, protecting their wickets for the next day in test match, or aggressive, focusing on scoring as many runs as possible. We also show with our analysis that the batsman with higher batting average may not be always the best player in a team. The quality of the player is also depends on how he interacts and forms partnership with other team members to win the match.
+
+We analyse this batting partnership between players within the top 5 teams in the history of cricket like India, Australia, England, South Africa and New Zealand. We analysed the data of International Test matches between 2008 to 2020. We construct an unweighted, undirected batting partnership network (BPN) by adding an edge between two players if they batted together in at least once match in this duration.
+
+\newpage
+\section{Analysis}
+\subsection{Ranking Batsmen \& Bowlers}
+The traditional measure to determine the quality of a batsmen and bowlers is to rank them according to their career batting and career bowling averages. The career batting average for a batsman is defined as $$C_{Ba} = \frac{\mathrm{R}}{I}$$ where $R$ is the number of runs scored by him and $I$ is the number of innings where he batted. Hence a higher $C_{Ba}$ implies a better batsman. The career bowling average of a bowler is defined as $$C_{Bo} = \frac{\mathrm{R}}{D}$$ where $R$ is the number of runs scored against him and $D$ is the number of batsman dismissed on his watch. Hence a lower $C_{Bo}$ implies a better bowler.
+
+\subsubsection{Performance Index for Batsman - PIB}
+However a batter that always plays against weak bowlers should rank lower (in spite of a higher $C_{Ba}$  as compared to a batter that always plays against strong bowlers (in spite of a lower $C_{Ba}$). Hence a new measure of interaction between bowlers and batsman has been proposed. The PIB on a batsman (against a particular bowler) is defined as the $$\mathrm{PIB} = \frac{A_{Ba}}{C_{Bo}}$$. Here $A_{Ba}$ is the career average of the batsman against that bowler and $C_{Bo}$ is the career average of that bowler. So if $A_{Ba}$ is high then it obviously implies a better batsman but a lower $C_{Bo}$ means a better bowler and hence the PIB increases to reflect the fact that the quality of the runs scored against this bowler is more.
+
+\subsubsection{Quality Index for Bowlers - QIB}
+Using a similar argument, the QIB for bowlers is defined as $$\mathrm{QIB} = D\frac{C_{Ba}}{C_{Bo}}$$ where $C_{Bo}$ is the career bowling average of the bowler and $D$ is the number of times the batsman is dismissed. When the bowler plays against a better batsman, the quality of the dismisses scored by him increases. The term in the denominator is to capture the inherent quality of the bowler since a lower $C_{Bo}$ indicates a better bowler.
+
+
+\subsubsection{Performance Index on the BPN}
+We constructed weighed, directed networks for batting partnership between batsmen in all teams where there is an directed edge between two players i.e A to B and B to A if they batted together in at least one match. The weight on the edge is equal to the fraction of runs individual player has scored in the total partnership formed by those two players. Let $n_A$ is the total runs made by player A in partnership with player B and n is the total runs made by them then there will an directed edge between B to A with weight as $$\mathrm{I_{BPN}} = \frac{n_A}{n}$$
+
+% Since it is batting partnership network, the player who plays in the middle order should have higher rank compare to other players as the middle order players has more chances to make a partnership with top order and lower order both players. Where-as top order players mare more likely to make a partnership with only top $2-3$ batsman.
+
+\subsubsection{Page Rank}
+The performance score of individual player is defined as $$p_i = (1 - q)\sum_{j}p_j\frac{\omega_{ij}}{s_j^{out}} + \frac{q}{N} + \frac{(1 - q)}{N}\sum_{j}p_j\delta(s_j^{out})$$
+where $\omega_{ij}$ is the weight of the link from $i$ to $j$. $p_i$ is the page rank score assigned to player i. $s_j^{out}$ is the out-strength ($s^{out}_{i} = \sum_{j}\omega_{ij})$. q is the free popularity that is awarded to each player and $N$ is the total players in a team. 
+
+For PIB and QIB network $\omega_{ij}$ is defined as $\omega_{ij} = s_j^{\mathrm{in}} - s_i^{\mathrm{in}}$ such that $s_j^{\mathrm{in}} > s_i^{\mathrm{in}}$. For BPN network $\omega _{ij}$ is defined as the weight of the edge from i to j.
+
+The performance rank of any batsman should not be only depending upon the average run a player makes in his career. The performance rank is depending upon the type of bowler against whom the runs are scored. For example, The career batting average of \textit{AN Cook} is 42.83 and \textit{HM Amla} is 45.52 as per our data. Still, the page rank of \textit{AN Cook} is higher than the \textit{HM Amla}. Similarly \textit{V Kohli} has scored total 7240 runs from which approximately 3200 runs are scored against some of the strongest teams such as Australia and England. Whereas Australian captain \textit{SPD Smith} has scored 7150 runs from which approx 4200 runs are scored against some of the strongest teams like India and England. Because of this, the algorithm provides higher rank to \textit{SPD Smith} compare to \textit{V Kohli}.       
+
+In the case of QIB, the career bowling average of R Ashwin is 24.42 and HMRKB Herath is 26.46 which shows that the R Ashwin is the better bowler compare to Herath. But the batting average of dismissal batsmen against HMRKB Herath is 24.25 and R Ashwin is 22.64. Since Herath has dismissed those batsmen who has good batting average, the page rank of Herath is higher than the R Ashwin.  
+
+In case of BPN, middle over players such as MS Dhoni has made partnership with top order and lower order players, whereas the player with better batting average like VVS Lakshman has not played with different order of players. Thus, the page rank of MS Dhoni is higher than the VVS Lakshman. 
+\subsubsection{Centrality} 
+\textbf{Betweenness centrality} is a measure which indicates the extent to which a node lies on a path to other nodes which in our context would mean what players are crucial to the structure of the partnerships in a team and thus it to the scoring pattern of a team. These players are also important as dismissal of these players can have a huge impact on the structure of a network. Also, team with a 2 or 3 players with high betweenness centrality and others with low is more vulnerable to the loss of these players' wickets.
+
+Ideally, the centralities should be uniformly divided so that it doesn't impact the structure of the network too much. We found that in the case of South Africa, top 2 players are the more central than even the 3rd ranked batsman. In the case of India and Australia, the centralities are more uniform if not perfectly uniform.
+
+\noindent \textbf{Closeness Centrality} is a measure of how easy it is to reach a given node in the network. In cricket, closeness centrality would mean how closely a player is connected to other players. If a player has a higher closeness centrality than the player is allowed to bat at any position. 
+
+In our analysis, we found that the player MG Johnson, batted at position no 8, is the 3rd closest player in the Australian team. This is simply because the MG Johnson has scored 5 half centuries and 1 century. In contrast to this, player with highest closeness centrality for team India is prominent batsman. From our analysis, it is V Kohli. He has scored 7240 including 43 centuries and 7 double centuries during which he had ample opportunities to form partnerships with various players.
+
+\subsection{Community Detection}
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
