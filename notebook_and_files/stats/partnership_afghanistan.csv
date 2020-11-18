@@ -1,0 +1,105 @@
+striker,non_striker,runs
+Javed Ahmadi,Mohammad Shahzad,3
+Mohammad Shahzad,Javed Ahmadi,27
+Javed Ahmadi,Rahmat Shah,1
+Rahmat Shah,Javed Ahmadi,8
+Rahmat Shah,Afsar Zazai,8
+Afsar Zazai,Rahmat Shah,6
+Afsar Zazai,Hashmatullah Shahidi,1
+Hashmatullah Shahidi,Afsar Zazai,0
+Hashmatullah Shahidi,Asghar Stanikzai,16
+Asghar Stanikzai,Hashmatullah Shahidi,36
+Hashmatullah Shahidi,Mohammad Nabi,7
+Mohammad Nabi,Hashmatullah Shahidi,2
+Mohammad Nabi,Rashid Khan,12
+Rashid Khan,Mohammad Nabi,7
+Mohammad Nabi,Yamin Ahmadzai,9
+Yamin Ahmadzai,Mohammad Nabi,0
+Mohammad Nabi,Mujeeb Ur Rahman,1
+Mujeeb Ur Rahman,Mohammad Nabi,0
+Wafadar Momand,Mujeeb Ur Rahman,6
+Mujeeb Ur Rahman,Wafadar Momand,15
+Rahmat Shah,Mohammad Nabi,0
+Mohammad Nabi,Rahmat Shah,0
+Rahmat Shah,Hashmatullah Shahidi,81
+Hashmatullah Shahidi,Rahmat Shah,75
+Hashmatullah Shahidi,Rashid Khan,8
+Rashid Khan,Hashmatullah Shahidi,12
+Hashmatullah Shahidi,Yamin Ahmadzai,1
+Yamin Ahmadzai,Hashmatullah Shahidi,1
+Hashmatullah Shahidi,Mujeeb Ur Rahman,10
+Mujeeb Ur Rahman,Hashmatullah Shahidi,3
+Wafadar Momand,Hashmatullah Shahidi,0
+Hashmatullah Shahidi,Wafadar Momand,5
+Ihsanullah,Mohammad Shahzad,10
+Mohammad Shahzad,Ihsanullah,18
+Mohammad Shahzad,Rahmat Shah,24
+Rahmat Shah,Mohammad Shahzad,17
+Rahmat Shah,Asghar Stanikzai,87
+Asghar Stanikzai,Rahmat Shah,59
+Asghar Stanikzai,Mohammad Nabi,0
+Mohammad Nabi,Asghar Stanikzai,0
+Asghar Stanikzai,Ikram Alikhil,19
+Ikram Alikhil,Asghar Stanikzai,7
+Asghar Stanikzai,Rashid Khan,7
+Rashid Khan,Asghar Stanikzai,10
+Asghar Stanikzai,Yamin Ahmadzai,6
+Yamin Ahmadzai,Asghar Stanikzai,2
+Asghar Stanikzai,Wafadar Momand,26
+Wafadar Momand,Asghar Stanikzai,5
+Wafadar Momand,Waqar Salamkheil,1
+Waqar Salamkheil,Wafadar Momand,1
+Ihsanullah,Rahmat Shah,64
+Rahmat Shah,Ihsanullah,80
+Ihsanullah,Mohammad Nabi,0
+Mohammad Nabi,Ihsanullah,1
+Ihsanullah,Hashmatullah Shahidi,0
+Hashmatullah Shahidi,Ihsanullah,4
+Javed Ahmadi,Ibrahim Zadran,36
+Ibrahim Zadran,Javed Ahmadi,40
+Javed Ahmadi,Ihsanullah,29
+Ihsanullah,Javed Ahmadi,23
+Asghar Stanikzai,Nasir Jamal,1
+Nasir Jamal,Asghar Stanikzai,2
+Afsar Zazai,Asghar Stanikzai,39
+Asghar Stanikzai,Afsar Zazai,45
+Rashid Khan,Afsar Zazai,44
+Afsar Zazai,Rashid Khan,18
+Amir Hamza,Afsar Zazai,30
+Afsar Zazai,Amir Hamza,23
+Yamin Ahmadzai,Amir Hamza,18
+Amir Hamza,Yamin Ahmadzai,4
+Yamin Ahmadzai,Zahir Khan,0
+Zahir Khan,Yamin Ahmadzai,0
+Asghar Stanikzai,Javed Ahmadi,0
+Javed Ahmadi,Asghar Stanikzai,4
+Javed Ahmadi,Nasir Jamal,22
+Nasir Jamal,Javed Ahmadi,15
+Javed Ahmadi,Amir Hamza,1
+Amir Hamza,Javed Ahmadi,1
+Javed Ahmadi,Afsar Zazai,9
+Afsar Zazai,Javed Ahmadi,2
+Afsar Zazai,Yamin Ahmadzai,19
+Yamin Ahmadzai,Afsar Zazai,10
+Afsar Zazai,Zahir Khan,1
+Zahir Khan,Afsar Zazai,0
+Ihsanullah,Ibrahim Zadran,13
+Ibrahim Zadran,Ihsanullah,10
+Ibrahim Zadran,Rahmat Shah,11
+Rahmat Shah,Ibrahim Zadran,17
+Rashid Khan,Qais Ahmad,14
+Qais Ahmad,Rashid Khan,9
+Yamin Ahmadzai,Rashid Khan,0
+Rashid Khan,Yamin Ahmadzai,4
+Rashid Khan,Zahir Khan,15
+Zahir Khan,Rashid Khan,0
+Ibrahim Zadran,Hashmatullah Shahidi,12
+Hashmatullah Shahidi,Ibrahim Zadran,12
+Ibrahim Zadran,Asghar Stanikzai,54
+Asghar Stanikzai,Ibrahim Zadran,50
+Afsar Zazai,Ibrahim Zadran,14
+Ibrahim Zadran,Afsar Zazai,21
+Afsar Zazai,Mohammad Nabi,1
+Mohammad Nabi,Afsar Zazai,8
+Afsar Zazai,Qais Ahmad,11
+Qais Ahmad,Afsar Zazai,14

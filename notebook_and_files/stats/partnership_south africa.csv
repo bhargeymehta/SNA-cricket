@@ -1,0 +1,671 @@
+striker,non_striker,runs
+D Elgar,SC Cook,253
+SC Cook,D Elgar,258
+D Elgar,HM Amla,729
+HM Amla,D Elgar,735
+D Elgar,JP Duminy,163
+JP Duminy,D Elgar,225
+F du Plessis,JP Duminy,137
+JP Duminy,F du Plessis,120
+F du Plessis,T Bavuma,464
+T Bavuma,F du Plessis,394
+Q de Kock,T Bavuma,492
+T Bavuma,Q de Kock,330
+Q de Kock,VD Philander,407
+VD Philander,Q de Kock,288
+Q de Kock,KA Maharaj,120
+KA Maharaj,Q de Kock,79
+K Rabada,Q de Kock,98
+Q de Kock,K Rabada,163
+DW Steyn,K Rabada,29
+K Rabada,DW Steyn,31
+D Elgar,F du Plessis,788
+F du Plessis,D Elgar,730
+F du Plessis,Q de Kock,313
+Q de Kock,F du Plessis,476
+VD Philander,KA Maharaj,209
+KA Maharaj,VD Philander,256
+SC Cook,HM Amla,201
+HM Amla,SC Cook,236
+HM Amla,JP Duminy,463
+JP Duminy,HM Amla,465
+HM Amla,F du Plessis,707
+F du Plessis,HM Amla,768
+HM Amla,T Bavuma,188
+T Bavuma,HM Amla,234
+T Bavuma,VD Philander,131
+VD Philander,T Bavuma,120
+VD Philander,KJ Abbott,6
+KJ Abbott,VD Philander,6
+VD Philander,K Rabada,79
+K Rabada,VD Philander,85
+SC Cook,JP Duminy,52
+JP Duminy,SC Cook,61
+SC Cook,F du Plessis,27
+F du Plessis,SC Cook,44
+F du Plessis,VD Philander,277
+VD Philander,F du Plessis,253
+KJ Abbott,F du Plessis,17
+F du Plessis,KJ Abbott,36
+K Rabada,F du Plessis,39
+F du Plessis,K Rabada,77
+F du Plessis,T Shamsi,16
+T Shamsi,F du Plessis,18
+SC Cook,T Bavuma,13
+T Bavuma,SC Cook,21
+SC Cook,KJ Abbott,4
+KJ Abbott,SC Cook,0
+SC Cook,Q de Kock,55
+Q de Kock,SC Cook,114
+SC Cook,VD Philander,13
+VD Philander,SC Cook,17
+K Rabada,SC Cook,7
+SC Cook,K Rabada,8
+SC Cook,T Shamsi,0
+T Shamsi,SC Cook,0
+T Bavuma,D Elgar,150
+D Elgar,T Bavuma,226
+VD Philander,M Morkel,98
+M Morkel,VD Philander,122
+D Elgar,K Rabada,51
+K Rabada,D Elgar,57
+K Rabada,HM Amla,36
+HM Amla,K Rabada,36
+TB de Bruyn,D Elgar,53
+D Elgar,TB de Bruyn,65
+K Rabada,M Morkel,25
+M Morkel,K Rabada,28
+HM Amla,TB de Bruyn,36
+TB de Bruyn,HM Amla,47
+HG Kuhn,D Elgar,56
+D Elgar,HG Kuhn,45
+JP Duminy,T Bavuma,5
+T Bavuma,JP Duminy,3
+T Bavuma,TB de Bruyn,156
+TB de Bruyn,T Bavuma,140
+T Bavuma,K Rabada,41
+K Rabada,T Bavuma,59
+Q de Kock,HM Amla,183
+HM Amla,Q de Kock,129
+TB de Bruyn,VD Philander,1
+VD Philander,TB de Bruyn,4
+HM Amla,HG Kuhn,58
+HG Kuhn,HM Amla,47
+VD Philander,CH Morris,61
+CH Morris,VD Philander,36
+CH Morris,KA Maharaj,4
+KA Maharaj,CH Morris,0
+CH Morris,M Morkel,9
+M Morkel,CH Morris,4
+D Olivier,M Morkel,4
+M Morkel,D Olivier,6
+T Bavuma,CH Morris,90
+CH Morris,T Bavuma,71
+T Bavuma,KA Maharaj,31
+KA Maharaj,T Bavuma,50
+T Bavuma,M Morkel,29
+M Morkel,T Bavuma,20
+D Elgar,Q de Kock,122
+Q de Kock,D Elgar,189
+D Elgar,VD Philander,14
+VD Philander,D Elgar,19
+D Elgar,CH Morris,16
+CH Morris,D Elgar,24
+KA Maharaj,D Elgar,30
+D Elgar,KA Maharaj,28
+KA Maharaj,K Rabada,49
+K Rabada,KA Maharaj,46
+M Morkel,KA Maharaj,0
+KA Maharaj,M Morkel,7
+HG Kuhn,T Bavuma,10
+T Bavuma,HG Kuhn,27
+TB de Bruyn,Q de Kock,12
+Q de Kock,TB de Bruyn,11
+F du Plessis,TB de Bruyn,24
+TB de Bruyn,F du Plessis,33
+KA Maharaj,F du Plessis,36
+F du Plessis,KA Maharaj,26
+KA Maharaj,D Olivier,0
+D Olivier,KA Maharaj,0
+AK Markram,D Elgar,659
+D Elgar,AK Markram,473
+AK Markram,HM Amla,329
+HM Amla,AK Markram,195
+AL Phehlukwayo,Q de Kock,4
+Q de Kock,AL Phehlukwayo,6
+AL Phehlukwayo,KA Maharaj,6
+KA Maharaj,AL Phehlukwayo,24
+AK Markram,AB de Villiers,148
+AB de Villiers,AK Markram,124
+AB de Villiers,F du Plessis,567
+F du Plessis,AB de Villiers,439
+AB de Villiers,TB de Bruyn,13
+TB de Bruyn,AB de Villiers,7
+AB de Villiers,Q de Kock,123
+Q de Kock,AB de Villiers,138
+AB de Villiers,VD Philander,178
+VD Philander,AB de Villiers,161
+AB de Villiers,KA Maharaj,34
+KA Maharaj,AB de Villiers,45
+AB de Villiers,K Rabada,5
+K Rabada,AB de Villiers,5
+AB de Villiers,M Morkel,185
+M Morkel,AB de Villiers,99
+AK Markram,F du Plessis,54
+F du Plessis,AK Markram,43
+AK Markram,TB de Bruyn,55
+TB de Bruyn,AK Markram,49
+AK Markram,Q de Kock,99
+Q de Kock,AK Markram,115
+M Morkel,Q de Kock,3
+Q de Kock,M Morkel,11
+D Elgar,AB de Villiers,260
+AB de Villiers,D Elgar,332
+AB de Villiers,L Ngidi,7
+L Ngidi,AB de Villiers,5
+AB de Villiers,HM Amla,1261
+HM Amla,AB de Villiers,1170
+D Elgar,M Morkel,1
+M Morkel,D Elgar,4
+AB de Villiers,T Bavuma,50
+T Bavuma,AB de Villiers,44
+DW Steyn,M Morkel,49
+M Morkel,DW Steyn,38
+AB de Villiers,DW Steyn,188
+DW Steyn,AB de Villiers,120
+F du Plessis,M Morkel,13
+M Morkel,F du Plessis,49
+M Morkel,L Ngidi,11
+L Ngidi,M Morkel,2
+HM Amla,VD Philander,33
+VD Philander,HM Amla,41
+VD Philander,AL Phehlukwayo,6
+AL Phehlukwayo,VD Philander,0
+AL Phehlukwayo,M Morkel,9
+M Morkel,AL Phehlukwayo,9
+D Elgar,AL Phehlukwayo,0
+AL Phehlukwayo,D Elgar,0
+D Elgar,L Ngidi,12
+L Ngidi,D Elgar,4
+AK Markram,T Bavuma,55
+T Bavuma,AK Markram,39
+AL Phehlukwayo,K Rabada,0
+K Rabada,AL Phehlukwayo,1
+T Shamsi,DW Steyn,0
+DW Steyn,T Shamsi,3
+VD Philander,DW Steyn,85
+DW Steyn,VD Philander,160
+VD Philander,T Shamsi,4
+T Shamsi,VD Philander,2
+K Rabada,L Ngidi,0
+L Ngidi,K Rabada,0
+TB de Bruyn,KA Maharaj,0
+KA Maharaj,TB de Bruyn,0
+TB de Bruyn,K Rabada,23
+K Rabada,TB de Bruyn,30
+DW Steyn,L Ngidi,6
+L Ngidi,DW Steyn,4
+T Bavuma,DW Steyn,10
+DW Steyn,T Bavuma,25
+Q de Kock,D Olivier,18
+D Olivier,Q de Kock,0
+DW Steyn,D Olivier,13
+D Olivier,DW Steyn,13
+TB de Bruyn,Zubayr Hamza,35
+Zubayr Hamza,TB de Bruyn,40
+Zubayr Hamza,T Bavuma,56
+T Bavuma,Zubayr Hamza,40
+Q de Kock,Zubayr Hamza,8
+Zubayr Hamza,Q de Kock,0
+Q de Kock,DW Steyn,40
+DW Steyn,Q de Kock,20
+HM Amla,Zubayr Hamza,0
+Zubayr Hamza,HM Amla,0
+KA Maharaj,DW Steyn,0
+DW Steyn,KA Maharaj,0
+Q de Kock,PWA Mulder,5
+PWA Mulder,Q de Kock,9
+F du Plessis,PWA Mulder,4
+PWA Mulder,F du Plessis,5
+F du Plessis,DW Steyn,19
+DW Steyn,F du Plessis,27
+F du Plessis,D Olivier,5
+D Olivier,F du Plessis,6
+AK Markram,Zubayr Hamza,20
+Zubayr Hamza,AK Markram,12
+Zubayr Hamza,F du Plessis,34
+F du Plessis,Zubayr Hamza,11
+HE van der Dussen,F du Plessis,83
+F du Plessis,HE van der Dussen,84
+Q de Kock,D Pretorius,96
+D Pretorius,Q de Kock,79
+VD Philander,A Nortje,11
+A Nortje,VD Philander,4
+D Elgar,Zubayr Hamza,29
+Zubayr Hamza,D Elgar,19
+A Nortje,HE van der Dussen,49
+HE van der Dussen,A Nortje,63
+A Nortje,Q de Kock,17
+Q de Kock,A Nortje,65
+PJ Malan,D Elgar,95
+D Elgar,PJ Malan,129
+D Elgar,HE van der Dussen,78
+HE van der Dussen,D Elgar,89
+Q de Kock,HE van der Dussen,71
+HE van der Dussen,Q de Kock,35
+HE van der Dussen,VD Philander,3
+VD Philander,HE van der Dussen,6
+D Pretorius,VD Philander,4
+VD Philander,D Pretorius,7
+Zubayr Hamza,PJ Malan,20
+PJ Malan,Zubayr Hamza,30
+PJ Malan,KA Maharaj,3
+KA Maharaj,PJ Malan,2
+PJ Malan,F du Plessis,22
+F du Plessis,PJ Malan,31
+PJ Malan,HE van der Dussen,6
+HE van der Dussen,PJ Malan,1
+D Elgar,A Nortje,3
+A Nortje,D Elgar,0
+F du Plessis,A Nortje,8
+A Nortje,F du Plessis,0
+K Rabada,D Paterson,1
+D Paterson,K Rabada,0
+KA Maharaj,A Nortje,4
+A Nortje,KA Maharaj,5
+KA Maharaj,D Paterson,52
+D Paterson,KA Maharaj,39
+Q de Kock,BE Hendricks,1
+BE Hendricks,Q de Kock,1
+D Paterson,BE Hendricks,4
+BE Hendricks,D Paterson,4
+A Nortje,BE Hendricks,2
+BE Hendricks,A Nortje,4
+D Paterson,A Nortje,0
+A Nortje,D Paterson,0
+D Elgar,DL Piedt,6
+DL Piedt,D Elgar,1
+S Muthusamy,Q de Kock,5
+Q de Kock,S Muthusamy,23
+S Muthusamy,VD Philander,6
+VD Philander,S Muthusamy,4
+S Muthusamy,KA Maharaj,6
+KA Maharaj,S Muthusamy,9
+K Rabada,S Muthusamy,33
+S Muthusamy,K Rabada,27
+AK Markram,S Muthusamy,5
+S Muthusamy,AK Markram,5
+S Muthusamy,DL Piedt,33
+DL Piedt,S Muthusamy,56
+TB de Bruyn,A Nortje,11
+A Nortje,TB de Bruyn,8
+S Muthusamy,F du Plessis,7
+F du Plessis,S Muthusamy,4
+T Bavuma,S Muthusamy,35
+S Muthusamy,T Bavuma,9
+T Bavuma,H Klaasen,0
+H Klaasen,T Bavuma,0
+H Klaasen,GF Linde,11
+GF Linde,H Klaasen,11
+GF Linde,DL Piedt,26
+DL Piedt,GF Linde,13
+GF Linde,K Rabada,1
+K Rabada,GF Linde,0
+A Nortje,GF Linde,4
+GF Linde,A Nortje,26
+A Nortje,L Ngidi,0
+L Ngidi,A Nortje,0
+D Elgar,H Klaasen,4
+H Klaasen,D Elgar,0
+TB de Bruyn,DL Piedt,17
+DL Piedt,TB de Bruyn,14
+ND McKenzie,GC Smith,663
+GC Smith,ND McKenzie,911
+ND McKenzie,HM Amla,375
+HM Amla,ND McKenzie,396
+JH Kallis,ND McKenzie,58
+ND McKenzie,JH Kallis,70
+AG Prince,ND McKenzie,25
+ND McKenzie,AG Prince,19
+AG Prince,AB de Villiers,579
+AB de Villiers,AG Prince,596
+MV Boucher,AG Prince,257
+AG Prince,MV Boucher,294
+AG Prince,M Morkel,42
+M Morkel,AG Prince,43
+PL Harris,AG Prince,17
+AG Prince,PL Harris,22
+AG Prince,DW Steyn,65
+DW Steyn,AG Prince,44
+DW Steyn,M Ntini,112
+M Ntini,DW Steyn,35
+HM Amla,JH Kallis,1293
+JH Kallis,HM Amla,1261
+HM Amla,AG Prince,208
+AG Prince,HM Amla,163
+GC Smith,HM Amla,1566
+HM Amla,GC Smith,1389
+MV Boucher,AB de Villiers,295
+AB de Villiers,MV Boucher,337
+AB de Villiers,PL Harris,189
+PL Harris,AB de Villiers,106
+PL Harris,DW Steyn,32
+DW Steyn,PL Harris,16
+ND McKenzie,PL Harris,42
+PL Harris,ND McKenzie,19
+AG Prince,JH Kallis,304
+JH Kallis,AG Prince,332
+M Morkel,MV Boucher,185
+MV Boucher,M Morkel,189
+A Nel,MV Boucher,0
+MV Boucher,A Nel,5
+M Ntini,MV Boucher,5
+MV Boucher,M Ntini,46
+JH Kallis,GC Smith,395
+GC Smith,JH Kallis,416
+GC Smith,AG Prince,61
+AG Prince,GC Smith,57
+GC Smith,AB de Villiers,296
+AB de Villiers,GC Smith,267
+GC Smith,MV Boucher,63
+MV Boucher,GC Smith,46
+M Morkel,PL Harris,28
+PL Harris,M Morkel,4
+PL Harris,A Nel,0
+A Nel,PL Harris,4
+PL Harris,M Ntini,23
+M Ntini,PL Harris,13
+AB de Villiers,A Nel,0
+A Nel,AB de Villiers,0
+A Nel,M Ntini,3
+M Ntini,A Nel,2
+A Nel,AG Prince,5
+AG Prince,A Nel,13
+HH Gibbs,GC Smith,27
+GC Smith,HH Gibbs,26
+AG Prince,J Botha,19
+J Botha,AG Prince,21
+J Botha,AB de Villiers,32
+AB de Villiers,J Botha,76
+J Botha,MV Boucher,0
+MV Boucher,J Botha,10
+MV Boucher,DW Steyn,67
+DW Steyn,MV Boucher,58
+JH Kallis,AB de Villiers,1136
+AB de Villiers,JH Kallis,1110
+MV Boucher,JH Kallis,136
+JH Kallis,MV Boucher,117
+RJ Peterson,JH Kallis,4
+JH Kallis,RJ Peterson,0
+MV Boucher,HM Amla,143
+HM Amla,MV Boucher,115
+AB de Villiers,ND McKenzie,31
+ND McKenzie,AB de Villiers,40
+ND McKenzie,MV Boucher,14
+MV Boucher,ND McKenzie,11
+MV Boucher,PL Harris,40
+PL Harris,MV Boucher,62
+AG Prince,M Ntini,18
+M Ntini,AG Prince,5
+AG Prince,M Zondeki,0
+M Zondeki,AG Prince,0
+AB de Villiers,JP Duminy,375
+JP Duminy,AB de Villiers,274
+AB de Villiers,M Ntini,11
+M Ntini,AB de Villiers,1
+JH Kallis,JP Duminy,125
+JP Duminy,JH Kallis,115
+MV Boucher,JP Duminy,77
+JP Duminy,MV Boucher,79
+PL Harris,JP Duminy,43
+JP Duminy,PL Harris,57
+M Morkel,JP Duminy,83
+JP Duminy,M Morkel,96
+JP Duminy,DW Steyn,126
+DW Steyn,JP Duminy,108
+JP Duminy,M Ntini,20
+M Ntini,JP Duminy,2
+AG Prince,I Khan,40
+I Khan,AG Prince,20
+JA Morkel,AB de Villiers,58
+AB de Villiers,JA Morkel,65
+M Morkel,ND McKenzie,0
+ND McKenzie,M Morkel,2
+M Ntini,GC Smith,12
+GC Smith,M Ntini,3
+PL Harris,F de Wet,25
+F de Wet,PL Harris,20
+F de Wet,M Ntini,0
+M Ntini,F de Wet,4
+PL Harris,GC Smith,22
+GC Smith,PL Harris,15
+GC Smith,JP Duminy,2
+JP Duminy,GC Smith,4
+JH Kallis,DW Steyn,102
+DW Steyn,JH Kallis,101
+MV Boucher,R McLaren,30
+R McLaren,MV Boucher,30
+DW Steyn,R McLaren,1
+R McLaren,DW Steyn,3
+AN Petersen,GC Smith,989
+GC Smith,AN Petersen,1035
+AN Petersen,HM Amla,458
+HM Amla,AN Petersen,564
+AN Petersen,JH Kallis,137
+JH Kallis,AN Petersen,213
+JH Kallis,PL Harris,40
+PL Harris,JH Kallis,17
+MV Boucher,LL Tsotsobe,23
+LL Tsotsobe,MV Boucher,3
+DW Steyn,HM Amla,53
+HM Amla,DW Steyn,55
+DW Steyn,WD Parnell,4
+WD Parnell,DW Steyn,0
+WD Parnell,M Morkel,12
+M Morkel,WD Parnell,11
+WD Parnell,HM Amla,22
+HM Amla,WD Parnell,34
+HM Amla,PL Harris,10
+PL Harris,HM Amla,4
+HM Amla,M Morkel,10
+M Morkel,HM Amla,12
+JH Kallis,J Botha,2
+J Botha,JH Kallis,0
+J Botha,DW Steyn,10
+DW Steyn,J Botha,3
+AG Prince,LL Tsotsobe,0
+LL Tsotsobe,AG Prince,0
+JH Kallis,M Morkel,14
+M Morkel,JH Kallis,36
+JH Kallis,LL Tsotsobe,43
+LL Tsotsobe,JH Kallis,16
+AN Petersen,PL Harris,2
+PL Harris,AN Petersen,0
+GC Smith,JA Rudolph,228
+JA Rudolph,GC Smith,209
+MV Boucher,VD Philander,66
+VD Philander,MV Boucher,30
+DW Steyn,Imran Tahir,52
+Imran Tahir,DW Steyn,20
+JA Rudolph,HM Amla,72
+HM Amla,JA Rudolph,92
+JA Rudolph,DW Steyn,23
+DW Steyn,JA Rudolph,17
+JH Kallis,JA Rudolph,21
+JA Rudolph,JH Kallis,25
+MV Boucher,Imran Tahir,31
+Imran Tahir,MV Boucher,29
+DW Steyn,M de Lange,14
+M de Lange,DW Steyn,9
+Imran Tahir,M de Lange,0
+M de Lange,Imran Tahir,0
+AB de Villiers,JA Rudolph,176
+JA Rudolph,AB de Villiers,133
+JA Rudolph,MV Boucher,55
+MV Boucher,JA Rudolph,38
+JA Rudolph,VD Philander,28
+VD Philander,JA Rudolph,33
+M Morkel,JA Rudolph,7
+JA Rudolph,M Morkel,1
+Imran Tahir,M Morkel,27
+M Morkel,Imran Tahir,30
+AN Petersen,DW Steyn,18
+DW Steyn,AN Petersen,7
+AN Petersen,AB de Villiers,99
+AB de Villiers,AN Petersen,100
+AN Petersen,JP Duminy,111
+JP Duminy,AN Petersen,117
+AN Petersen,JA Rudolph,44
+JA Rudolph,AN Petersen,22
+JP Duminy,VD Philander,173
+VD Philander,JP Duminy,189
+JP Duminy,Imran Tahir,6
+Imran Tahir,JP Duminy,1
+JH Kallis,VD Philander,8
+VD Philander,JH Kallis,6
+AN Petersen,M Morkel,1
+M Morkel,AN Petersen,10
+JA Rudolph,JP Duminy,26
+JP Duminy,JA Rudolph,41
+VD Philander,Imran Tahir,7
+Imran Tahir,VD Philander,6
+AB de Villiers,RJ Peterson,94
+RJ Peterson,AB de Villiers,78
+VD Philander,RJ Peterson,32
+RJ Peterson,VD Philander,90
+D Elgar,RJ Peterson,9
+RJ Peterson,D Elgar,9
+DW Steyn,D Elgar,22
+D Elgar,DW Steyn,53
+RK Kleinveldt,D Elgar,7
+D Elgar,RK Kleinveldt,10
+F du Plessis,JH Kallis,117
+JH Kallis,F du Plessis,140
+RJ Peterson,DW Steyn,16
+DW Steyn,RJ Peterson,10
+M Morkel,RJ Peterson,8
+RJ Peterson,M Morkel,11
+AB de Villiers,KJ Abbott,44
+KJ Abbott,AB de Villiers,15
+RK Kleinveldt,KJ Abbott,0
+KJ Abbott,RK Kleinveldt,7
+KJ Abbott,DW Steyn,2
+DW Steyn,KJ Abbott,5
+DW Steyn,RK Kleinveldt,7
+RK Kleinveldt,DW Steyn,13
+M Morkel,RK Kleinveldt,0
+RK Kleinveldt,M Morkel,4
+F du Plessis,RK Kleinveldt,7
+RK Kleinveldt,F du Plessis,3
+F du Plessis,Imran Tahir,26
+Imran Tahir,F du Plessis,12
+F du Plessis,RJ Peterson,65
+RJ Peterson,F du Plessis,92
+AN Petersen,F du Plessis,40
+F du Plessis,AN Petersen,60
+R McLaren,AB de Villiers,14
+AB de Villiers,R McLaren,14
+D Elgar,GC Smith,28
+GC Smith,D Elgar,53
+JP Duminy,WD Parnell,25
+WD Parnell,JP Duminy,10
+AN Petersen,D Elgar,194
+D Elgar,AN Petersen,170
+HM Amla,RJ Peterson,6
+RJ Peterson,HM Amla,5
+GC Smith,DW Steyn,8
+DW Steyn,GC Smith,7
+HM Amla,S van Zyl,64
+S van Zyl,HM Amla,90
+S van Zyl,Q de Kock,14
+Q de Kock,S van Zyl,18
+T Bavuma,S van Zyl,16
+S van Zyl,T Bavuma,15
+S van Zyl,VD Philander,19
+VD Philander,S van Zyl,3
+AB de Villiers,S van Zyl,57
+S van Zyl,AB de Villiers,33
+SR Harmer,AB de Villiers,17
+AB de Villiers,SR Harmer,35
+Q de Kock,JP Duminy,28
+JP Duminy,Q de Kock,24
+Imran Tahir,HM Amla,15
+HM Amla,Imran Tahir,12
+DL Piedt,JP Duminy,13
+JP Duminy,DL Piedt,27
+D Elgar,S van Zyl,114
+S van Zyl,D Elgar,163
+D Elgar,KJ Abbott,4
+KJ Abbott,D Elgar,0
+JP Duminy,KJ Abbott,3
+KJ Abbott,JP Duminy,2
+T Bavuma,DJ Vilas,7
+DJ Vilas,T Bavuma,19
+DJ Vilas,CH Morris,7
+CH Morris,DJ Vilas,6
+K Rabada,CH Morris,24
+CH Morris,K Rabada,22
+GC Viljoen,K Rabada,0
+K Rabada,GC Viljoen,0
+GC Viljoen,M Morkel,20
+M Morkel,GC Viljoen,12
+F du Plessis,DJ Vilas,2
+DJ Vilas,F du Plessis,8
+F du Plessis,CH Morris,0
+CH Morris,F du Plessis,1
+GC Viljoen,F du Plessis,6
+F du Plessis,GC Viljoen,3
+SC Cook,AB de Villiers,1
+AB de Villiers,SC Cook,0
+Q de Kock,KJ Abbott,52
+KJ Abbott,Q de Kock,32
+Q de Kock,DL Piedt,61
+DL Piedt,Q de Kock,19
+T Bavuma,SR Harmer,14
+SR Harmer,T Bavuma,9
+AB de Villiers,DJ Vilas,35
+DJ Vilas,AB de Villiers,40
+K Rabada,Imran Tahir,1
+Imran Tahir,K Rabada,8
+S van Zyl,DJ Vilas,7
+DJ Vilas,S van Zyl,7
+SR Harmer,S van Zyl,11
+S van Zyl,SR Harmer,19
+S van Zyl,DW Steyn,0
+DW Steyn,S van Zyl,0
+KJ Abbott,K Rabada,0
+K Rabada,KJ Abbott,0
+KJ Abbott,M Morkel,14
+M Morkel,KJ Abbott,22
+Imran Tahir,KJ Abbott,0
+KJ Abbott,Imran Tahir,0
+D Elgar,Imran Tahir,5
+Imran Tahir,D Elgar,12
+DJ Vilas,JP Duminy,11
+JP Duminy,DJ Vilas,29
+JP Duminy,SR Harmer,5
+SR Harmer,JP Duminy,13
+JP Duminy,K Rabada,6
+K Rabada,JP Duminy,4
+DJ Vilas,SR Harmer,2
+SR Harmer,DJ Vilas,0
+K Rabada,SR Harmer,6
+SR Harmer,K Rabada,4
+SR Harmer,M Morkel,4
+M Morkel,SR Harmer,4
+AB de Villiers,DL Piedt,13
+DL Piedt,AB de Villiers,5
+KJ Abbott,DL Piedt,0
+DL Piedt,KJ Abbott,0
+M Morkel,DL Piedt,2
+DL Piedt,M Morkel,1
+DL Piedt,K Rabada,9
+K Rabada,DL Piedt,18
+S van Zyl,F du Plessis,35
+F du Plessis,S van Zyl,48
+T Bavuma,DL Piedt,3
+DL Piedt,T Bavuma,0
+HM Amla,D Olivier,6
+D Olivier,HM Amla,3
+Q de Kock,WD Parnell,23
+WD Parnell,Q de Kock,23

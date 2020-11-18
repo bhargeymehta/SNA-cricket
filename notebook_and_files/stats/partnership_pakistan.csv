@@ -1,0 +1,857 @@
+striker,non_striker,runs
+Azhar Ali,Sami Aslam,495
+Sami Aslam,Azhar Ali,445
+Sami Aslam,Babar Azam,61
+Babar Azam,Sami Aslam,63
+Sami Aslam,Younis Khan,58
+Younis Khan,Sami Aslam,55
+Sami Aslam,Misbah-ul-Haq,53
+Misbah-ul-Haq,Sami Aslam,41
+Sami Aslam,Asad Shafiq,8
+Asad Shafiq,Sami Aslam,39
+Sami Aslam,Sarfraz Ahmed,16
+Sarfraz Ahmed,Sami Aslam,8
+Sarfraz Ahmed,Wahab Riaz,65
+Wahab Riaz,Sarfraz Ahmed,55
+Sarfraz Ahmed,Yasir Shah,99
+Yasir Shah,Sarfraz Ahmed,87
+Sarfraz Ahmed,Mohammad Amir,129
+Mohammad Amir,Sarfraz Ahmed,74
+Sarfraz Ahmed,Rahat Ali,93
+Rahat Ali,Sarfraz Ahmed,26
+Azhar Ali,Babar Azam,344
+Babar Azam,Azhar Ali,348
+Azhar Ali,Younis Khan,1135
+Younis Khan,Azhar Ali,1260
+Misbah-ul-Haq,Younis Khan,1369
+Younis Khan,Misbah-ul-Haq,1495
+Younis Khan,Asad Shafiq,716
+Asad Shafiq,Younis Khan,691
+Asad Shafiq,Sarfraz Ahmed,480
+Sarfraz Ahmed,Asad Shafiq,631
+Asad Shafiq,Mohammad Amir,55
+Mohammad Amir,Asad Shafiq,58
+Asad Shafiq,Wahab Riaz,73
+Wahab Riaz,Asad Shafiq,70
+Asad Shafiq,Yasir Shah,142
+Yasir Shah,Asad Shafiq,133
+Yasir Shah,Rahat Ali,17
+Rahat Ali,Yasir Shah,3
+Azhar Ali,Misbah-ul-Haq,536
+Misbah-ul-Haq,Azhar Ali,702
+Azhar Ali,Asad Shafiq,702
+Asad Shafiq,Azhar Ali,728
+Sarfraz Ahmed,Azhar Ali,153
+Azhar Ali,Sarfraz Ahmed,126
+Azhar Ali,Mohammad Amir,34
+Mohammad Amir,Azhar Ali,41
+Azhar Ali,Sohail Khan,53
+Sohail Khan,Azhar Ali,65
+Wahab Riaz,Azhar Ali,1
+Azhar Ali,Wahab Riaz,7
+Sarfraz Ahmed,Sohail Khan,19
+Sohail Khan,Sarfraz Ahmed,7
+Wahab Riaz,Sohail Khan,0
+Sohail Khan,Wahab Riaz,6
+Sohail Khan,Yasir Shah,4
+Yasir Shah,Sohail Khan,0
+Sharjeel Khan,Azhar Ali,44
+Azhar Ali,Sharjeel Khan,12
+Younis Khan,Sarfraz Ahmed,100
+Sarfraz Ahmed,Younis Khan,125
+Younis Khan,Mohammad Amir,59
+Mohammad Amir,Younis Khan,34
+Younis Khan,Wahab Riaz,44
+Wahab Riaz,Younis Khan,12
+Younis Khan,Yasir Shah,54
+Yasir Shah,Younis Khan,12
+Younis Khan,Imran Khan (2),0
+Imran Khan (2),Younis Khan,0
+Yasir Shah,Azhar Ali,49
+Azhar Ali,Yasir Shah,27
+Babar Azam,Yasir Shah,109
+Yasir Shah,Babar Azam,73
+Misbah-ul-Haq,Yasir Shah,49
+Yasir Shah,Misbah-ul-Haq,39
+Misbah-ul-Haq,Asad Shafiq,916
+Asad Shafiq,Misbah-ul-Haq,992
+Misbah-ul-Haq,Sarfraz Ahmed,288
+Sarfraz Ahmed,Misbah-ul-Haq,350
+Sarfraz Ahmed,Imran Khan (2),32
+Imran Khan (2),Sarfraz Ahmed,0
+Younis Khan,Babar Azam,66
+Babar Azam,Younis Khan,75
+Misbah-ul-Haq,Mohammad Amir,43
+Mohammad Amir,Misbah-ul-Haq,31
+Misbah-ul-Haq,Sohail Khan,4
+Sohail Khan,Misbah-ul-Haq,9
+Asad Shafiq,Sohail Khan,8
+Sohail Khan,Asad Shafiq,40
+Babar Azam,Asad Shafiq,405
+Asad Shafiq,Babar Azam,396
+Babar Azam,Mohammad Rizwan,124
+Mohammad Rizwan,Babar Azam,90
+Babar Azam,Sarfraz Ahmed,195
+Sarfraz Ahmed,Babar Azam,235
+Babar Azam,Sohail Khan,26
+Sohail Khan,Babar Azam,37
+Babar Azam,Wahab Riaz,1
+Wahab Riaz,Babar Azam,0
+Babar Azam,Mohammad Amir,17
+Mohammad Amir,Babar Azam,6
+Babar Azam,Imran Khan (2),4
+Imran Khan (2),Babar Azam,6
+Younis Khan,Mohammad Rizwan,0
+Mohammad Rizwan,Younis Khan,10
+Mohammad Rizwan,Sohail Khan,2
+Sohail Khan,Mohammad Rizwan,8
+Mohammad Rizwan,Mohammad Amir,1
+Mohammad Amir,Mohammad Rizwan,0
+Mohammad Rizwan,Wahab Riaz,0
+Wahab Riaz,Mohammad Rizwan,0
+Mohammad Rizwan,Imran Khan (2),0
+Imran Khan (2),Mohammad Rizwan,0
+Sarfraz Ahmed,Mohammad Nawaz (3),57
+Mohammad Nawaz (3),Sarfraz Ahmed,22
+Sohail Khan,Mohammad Amir,5
+Mohammad Amir,Sohail Khan,10
+Mohammad Nawaz (3),Sohail Khan,9
+Sohail Khan,Mohammad Nawaz (3),5
+Zulfiqar Babar,Sohail Khan,0
+Sohail Khan,Zulfiqar Babar,21
+Zulfiqar Babar,Rahat Ali,6
+Rahat Ali,Zulfiqar Babar,5
+Wahab Riaz,Yasir Shah,34
+Yasir Shah,Wahab Riaz,35
+Yasir Shah,Mohammad Amir,69
+Mohammad Amir,Yasir Shah,79
+Yasir Shah,Zulfiqar Babar,5
+Zulfiqar Babar,Yasir Shah,21
+Azhar Ali,Mohammad Nawaz (3),19
+Mohammad Nawaz (3),Azhar Ali,19
+Mohammad Amir,Wahab Riaz,22
+Wahab Riaz,Mohammad Amir,18
+Ahmed Shehzad,Azhar Ali,330
+Azhar Ali,Ahmed Shehzad,273
+Ahmed Shehzad,Babar Azam,24
+Babar Azam,Ahmed Shehzad,7
+Babar Azam,Misbah-ul-Haq,1
+Misbah-ul-Haq,Babar Azam,12
+Misbah-ul-Haq,Wahab Riaz,35
+Wahab Riaz,Misbah-ul-Haq,38
+Misbah-ul-Haq,Mohammad Abbas,31
+Mohammad Abbas,Misbah-ul-Haq,1
+Asad Shafiq,Shadab Khan,16
+Shadab Khan,Asad Shafiq,4
+Mohammad Amir,Shadab Khan,38
+Shadab Khan,Mohammad Amir,48
+Shadab Khan,Yasir Shah,8
+Yasir Shah,Shadab Khan,20
+Mohammad Abbas,Yasir Shah,32
+Yasir Shah,Mohammad Abbas,111
+Ahmed Shehzad,Younis Khan,48
+Younis Khan,Ahmed Shehzad,40
+Ahmed Shehzad,Misbah-ul-Haq,45
+Misbah-ul-Haq,Ahmed Shehzad,13
+Ahmed Shehzad,Asad Shafiq,0
+Asad Shafiq,Ahmed Shehzad,0
+Ahmed Shehzad,Sarfraz Ahmed,0
+Sarfraz Ahmed,Ahmed Shehzad,5
+Sarfraz Ahmed,Shadab Khan,0
+Shadab Khan,Sarfraz Ahmed,7
+Sarfraz Ahmed,Mohammad Abbas,45
+Mohammad Abbas,Sarfraz Ahmed,3
+Shan Masood,Azhar Ali,267
+Azhar Ali,Shan Masood,224
+Mohammad Abbas,Hasan Ali,1
+Hasan Ali,Mohammad Abbas,8
+Shan Masood,Babar Azam,111
+Babar Azam,Shan Masood,195
+Younis Khan,Shan Masood,160
+Shan Masood,Younis Khan,160
+Yasir Shah,Hasan Ali,8
+Hasan Ali,Yasir Shah,15
+Imam-ul-Haq,Azhar Ali,41
+Azhar Ali,Imam-ul-Haq,46
+Azhar Ali,Haris Sohail,245
+Haris Sohail,Azhar Ali,260
+Shadab Khan,Babar Azam,10
+Babar Azam,Shadab Khan,9
+Shadab Khan,Faheem Ashraf,89
+Faheem Ashraf,Shadab Khan,118
+Mohammad Amir,Hasan Ali,7
+Hasan Ali,Mohammad Amir,9
+Mohammad Amir,Mohammad Abbas,26
+Mohammad Abbas,Mohammad Amir,6
+Imam-ul-Haq,Haris Sohail,44
+Haris Sohail,Imam-ul-Haq,102
+Haris Sohail,Asad Shafiq,138
+Asad Shafiq,Haris Sohail,166
+Usman Salahuddin,Asad Shafiq,3
+Asad Shafiq,Usman Salahuddin,9
+Usman Salahuddin,Sarfraz Ahmed,6
+Sarfraz Ahmed,Usman Salahuddin,22
+Usman Salahuddin,Shadab Khan,1
+Shadab Khan,Usman Salahuddin,4
+Shadab Khan,Hasan Ali,30
+Hasan Ali,Shadab Khan,46
+Mohammad Abbas,Shadab Khan,10
+Shadab Khan,Mohammad Abbas,38
+Asad Shafiq,Imam-ul-Haq,6
+Imam-ul-Haq,Asad Shafiq,6
+Imam-ul-Haq,Usman Salahuddin,22
+Usman Salahuddin,Imam-ul-Haq,20
+Usman Salahuddin,Faheem Ashraf,5
+Faheem Ashraf,Usman Salahuddin,3
+Usman Salahuddin,Mohammad Amir,2
+Mohammad Amir,Usman Salahuddin,2
+Sami Aslam,Shan Masood,93
+Shan Masood,Sami Aslam,79
+Sarfraz Ahmed,Haris Sohail,63
+Haris Sohail,Sarfraz Ahmed,53
+Haris Sohail,Mohammad Amir,14
+Mohammad Amir,Haris Sohail,11
+Haris Sohail,Yasir Shah,48
+Yasir Shah,Haris Sohail,13
+Hasan Ali,Haris Sohail,37
+Haris Sohail,Hasan Ali,29
+Mohammad Abbas,Haris Sohail,2
+Haris Sohail,Mohammad Abbas,57
+Shan Masood,Asad Shafiq,152
+Asad Shafiq,Shan Masood,147
+Shan Masood,Haris Sohail,7
+Haris Sohail,Shan Masood,18
+Wahab Riaz,Mohammad Abbas,1
+Mohammad Abbas,Wahab Riaz,3
+Faheem Ashraf,Mohammad Amir,17
+Mohammad Amir,Faheem Ashraf,11
+Rahat Ali,Mohammad Abbas,0
+Mohammad Abbas,Rahat Ali,4
+Imam-ul-Haq,Babar Azam,77
+Babar Azam,Imam-ul-Haq,92
+Sarfraz Ahmed,Imam-ul-Haq,8
+Imam-ul-Haq,Sarfraz Ahmed,3
+Imam-ul-Haq,Shadab Khan,4
+Shadab Khan,Imam-ul-Haq,4
+Fakhar Zaman,Imam-ul-Haq,14
+Imam-ul-Haq,Fakhar Zaman,38
+Fakhar Zaman,Shan Masood,11
+Shan Masood,Fakhar Zaman,5
+Babar Azam,Hasan Ali,63
+Hasan Ali,Babar Azam,24
+Hasan Ali,Shaheen Shah Afridi,6
+Shaheen Shah Afridi,Hasan Ali,6
+Shan Masood,Imam-ul-Haq,67
+Imam-ul-Haq,Shan Masood,73
+Sarfraz Ahmed,Shan Masood,28
+Shan Masood,Sarfraz Ahmed,31
+Shan Masood,Mohammad Amir,4
+Mohammad Amir,Shan Masood,12
+Yasir Shah,Shan Masood,5
+Shan Masood,Yasir Shah,6
+Shan Masood,Hasan Ali,8
+Hasan Ali,Shan Masood,10
+Shaheen Shah Afridi,Mohammad Amir,3
+Mohammad Amir,Shaheen Shah Afridi,11
+Babar Azam,Fakhar Zaman,0
+Fakhar Zaman,Babar Azam,7
+Mohammad Abbas,Babar Azam,1
+Babar Azam,Mohammad Abbas,21
+Shaheen Shah Afridi,Mohammad Abbas,14
+Mohammad Abbas,Shaheen Shah Afridi,9
+Mohammad Abbas,Imam-ul-Haq,11
+Imam-ul-Haq,Mohammad Abbas,32
+Mohammad Hafeez,Imam-ul-Haq,181
+Imam-ul-Haq,Mohammad Hafeez,144
+Azhar Ali,Mohammad Hafeez,561
+Mohammad Hafeez,Azhar Ali,943
+Haris Sohail,Babar Azam,86
+Babar Azam,Haris Sohail,103
+Sarfraz Ahmed,Bilal Asif,27
+Bilal Asif,Sarfraz Ahmed,49
+Wahab Riaz,Bilal Asif,1
+Bilal Asif,Wahab Riaz,1
+Imam-ul-Haq,Bilal Asif,1
+Bilal Asif,Imam-ul-Haq,0
+Mohammad Hafeez,Fakhar Zaman,10
+Fakhar Zaman,Mohammad Hafeez,10
+Azhar Ali,Fakhar Zaman,48
+Fakhar Zaman,Azhar Ali,89
+Fakhar Zaman,Haris Sohail,0
+Haris Sohail,Fakhar Zaman,0
+Asad Shafiq,Fakhar Zaman,0
+Fakhar Zaman,Asad Shafiq,0
+Fakhar Zaman,Sarfraz Ahmed,61
+Sarfraz Ahmed,Fakhar Zaman,78
+Mohammad Abbas,Mir Hamza,9
+Mir Hamza,Mohammad Abbas,4
+Babar Azam,Bilal Asif,24
+Bilal Asif,Babar Azam,23
+Bilal Asif,Azhar Ali,0
+Azhar Ali,Bilal Asif,0
+Azhar Ali,Hasan Ali,9
+Hasan Ali,Azhar Ali,0
+Mohammad Abbas,Azhar Ali,1
+Azhar Ali,Mohammad Abbas,20
+Hasan Ali,Sarfraz Ahmed,0
+Sarfraz Ahmed,Hasan Ali,1
+Shaheen Shah Afridi,Sarfraz Ahmed,0
+Sarfraz Ahmed,Shaheen Shah Afridi,1
+Asad Shafiq,Iftikhar Ahmed,31
+Iftikhar Ahmed,Asad Shafiq,14
+Asad Shafiq,Mohammad Rizwan,25
+Mohammad Rizwan,Asad Shafiq,63
+Asad Shafiq,Shaheen Shah Afridi,6
+Shaheen Shah Afridi,Asad Shafiq,0
+Asad Shafiq,Naseem Shah,0
+Naseem Shah,Asad Shafiq,0
+Naseem Shah,Imran Khan (2),7
+Imran Khan (2),Naseem Shah,9
+Babar Azam,Iftikhar Ahmed,11
+Iftikhar Ahmed,Babar Azam,10
+Yasir Shah,Mohammad Rizwan,54
+Mohammad Rizwan,Yasir Shah,51
+Yasir Shah,Shaheen Shah Afridi,18
+Shaheen Shah Afridi,Yasir Shah,6
+Shaheen Shah Afridi,Imran Khan (2),6
+Imran Khan (2),Shaheen Shah Afridi,1
+Yasir Shah,Muhammad Musa,8
+Muhammad Musa,Yasir Shah,12
+Mohammad Rizwan,Iftikhar Ahmed,27
+Iftikhar Ahmed,Mohammad Rizwan,20
+Mohammad Rizwan,Shaheen Shah Afridi,12
+Shaheen Shah Afridi,Mohammad Rizwan,1
+Mohammad Abbas,Mohammad Rizwan,3
+Mohammad Rizwan,Mohammad Abbas,34
+Mohammad Abbas,Muhammad Musa,0
+Muhammad Musa,Mohammad Abbas,4
+Abid Ali,Shan Masood,186
+Shan Masood,Abid Ali,179
+Shan Masood,Mohammad Rizwan,17
+Mohammad Rizwan,Shan Masood,9
+Shan Masood,Shadab Khan,59
+Shadab Khan,Shan Masood,45
+Shan Masood,Mohammad Abbas,0
+Mohammad Abbas,Shan Masood,0
+Shan Masood,Shaheen Shah Afridi,25
+Shaheen Shah Afridi,Shan Masood,1
+Shaheen Shah Afridi,Naseem Shah,13
+Naseem Shah,Shaheen Shah Afridi,1
+Azhar Ali,Abid Ali,128
+Abid Ali,Azhar Ali,172
+Mohammad Rizwan,Shadab Khan,5
+Shadab Khan,Mohammad Rizwan,13
+Mohammad Abbas,Naseem Shah,4
+Naseem Shah,Mohammad Abbas,6
+Abid Ali,Babar Azam,102
+Babar Azam,Abid Ali,136
+Babar Azam,Fawad Alam,16
+Fawad Alam,Babar Azam,0
+Mohammad Rizwan,Naseem Shah,19
+Naseem Shah,Mohammad Rizwan,1
+Azhar Ali,Fawad Alam,20
+Fawad Alam,Azhar Ali,21
+Azhar Ali,Mohammad Rizwan,80
+Mohammad Rizwan,Azhar Ali,53
+Azhar Ali,Shaheen Shah Afridi,3
+Shaheen Shah Afridi,Azhar Ali,3
+Naseem Shah,Azhar Ali,0
+Azhar Ali,Naseem Shah,12
+Asad Shafiq,Mohammad Abbas,7
+Mohammad Abbas,Asad Shafiq,0
+Haris Sohail,Mohammad Rizwan,11
+Mohammad Rizwan,Haris Sohail,10
+Haris Sohail,Shaheen Shah Afridi,3
+Shaheen Shah Afridi,Haris Sohail,3
+Salman Butt,Khurram Manzoor,83
+Khurram Manzoor,Salman Butt,93
+Khurram Manzoor,Younis Khan,78
+Younis Khan,Khurram Manzoor,76
+Shoaib Malik,Younis Khan,104
+Younis Khan,Shoaib Malik,141
+Younis Khan,Faisal Iqbal,113
+Faisal Iqbal,Younis Khan,57
+Younis Khan,Kamran Akmal,22
+Kamran Akmal,Younis Khan,40
+Kamran Akmal,Yasir Arafat,118
+Yasir Arafat,Kamran Akmal,50
+Younis Khan,Abdur Rauf,10
+Abdur Rauf,Younis Khan,31
+Younis Khan,Mohammad Yousuf,28
+Mohammad Yousuf,Younis Khan,27
+Misbah-ul-Haq,Mohammad Yousuf,94
+Mohammad Yousuf,Misbah-ul-Haq,121
+Mohammad Yousuf,Shoaib Malik,41
+Shoaib Malik,Mohammad Yousuf,41
+Shoaib Malik,Kamran Akmal,84
+Kamran Akmal,Shoaib Malik,111
+Umar Gul,Kamran Akmal,37
+Kamran Akmal,Umar Gul,52
+Kamran Akmal,Mohammad Amir,90
+Mohammad Amir,Kamran Akmal,52
+Mohammad Amir,Saeed Ajmal,39
+Saeed Ajmal,Mohammad Amir,15
+Salman Butt,Younis Khan,0
+Younis Khan,Salman Butt,3
+Salman Butt,Mohammad Yousuf,87
+Mohammad Yousuf,Salman Butt,54
+Salman Butt,Misbah-ul-Haq,0
+Misbah-ul-Haq,Salman Butt,1
+Shoaib Malik,Misbah-ul-Haq,110
+Misbah-ul-Haq,Shoaib Malik,93
+Misbah-ul-Haq,Kamran Akmal,9
+Kamran Akmal,Misbah-ul-Haq,45
+Misbah-ul-Haq,Abdur Rauf,5
+Abdur Rauf,Misbah-ul-Haq,4
+Abdur Rauf,Umar Gul,1
+Umar Gul,Abdur Rauf,9
+Abdur Rauf,Mohammad Amir,6
+Mohammad Amir,Abdur Rauf,6
+Abdur Rauf,Saeed Ajmal,5
+Saeed Ajmal,Abdur Rauf,1
+Fawad Alam,Khurram Manzoor,74
+Khurram Manzoor,Fawad Alam,61
+Fawad Alam,Younis Khan,119
+Younis Khan,Fawad Alam,86
+Fawad Alam,Mohammad Yousuf,21
+Mohammad Yousuf,Fawad Alam,47
+Fawad Alam,Misbah-ul-Haq,5
+Misbah-ul-Haq,Fawad Alam,3
+Fawad Alam,Shoaib Malik,14
+Shoaib Malik,Fawad Alam,15
+Shoaib Malik,Abdur Rauf,11
+Abdur Rauf,Shoaib Malik,0
+Shoaib Malik,Umar Gul,29
+Umar Gul,Shoaib Malik,32
+Shoaib Malik,Mohammad Amir,44
+Mohammad Amir,Shoaib Malik,27
+Shoaib Malik,Saeed Ajmal,0
+Saeed Ajmal,Shoaib Malik,0
+Umar Gul,Mohammad Amir,20
+Mohammad Amir,Umar Gul,14
+Khurram Manzoor,Mohammad Yousuf,83
+Mohammad Yousuf,Khurram Manzoor,108
+Danish Kaneria,Kamran Akmal,12
+Kamran Akmal,Danish Kaneria,16
+Danish Kaneria,Umar Gul,20
+Umar Gul,Danish Kaneria,67
+Mohammad Amir,Danish Kaneria,17
+Danish Kaneria,Mohammad Amir,2
+Salman Butt,Imran Farhat,355
+Imran Farhat,Salman Butt,357
+Salman Butt,Faisal Iqbal,75
+Faisal Iqbal,Salman Butt,62
+Mohammad Yousuf,Umar Akmal,128
+Umar Akmal,Mohammad Yousuf,202
+Umar Akmal,Mohammad Amir,86
+Mohammad Amir,Umar Akmal,12
+Mohammad Asif,Misbah-ul-Haq,0
+Misbah-ul-Haq,Mohammad Asif,1
+Saeed Ajmal,Misbah-ul-Haq,20
+Misbah-ul-Haq,Saeed Ajmal,127
+Faisal Iqbal,Mohammad Yousuf,90
+Mohammad Yousuf,Faisal Iqbal,128
+Mohammad Yousuf,Kamran Akmal,6
+Kamran Akmal,Mohammad Yousuf,30
+Mohammad Yousuf,Mohammad Amir,11
+Mohammad Amir,Mohammad Yousuf,9
+Mohammad Yousuf,Abdur Rauf,0
+Abdur Rauf,Mohammad Yousuf,5
+Saeed Ajmal,Mohammad Yousuf,10
+Mohammad Yousuf,Saeed Ajmal,9
+Saeed Ajmal,Mohammad Asif,4
+Mohammad Asif,Saeed Ajmal,1
+Misbah-ul-Haq,Umar Akmal,73
+Umar Akmal,Misbah-ul-Haq,149
+Kamran Akmal,Mohammad Sami,5
+Mohammad Sami,Kamran Akmal,0
+Mohammad Sami,Umar Gul,7
+Umar Gul,Mohammad Sami,12
+Danish Kaneria,Mohammad Sami,2
+Mohammad Sami,Danish Kaneria,6
+Danish Kaneria,Mohammad Asif,37
+Mohammad Asif,Danish Kaneria,14
+Umar Akmal,Kamran Akmal,136
+Kamran Akmal,Umar Akmal,140
+Umar Akmal,Mohammad Sami,27
+Mohammad Sami,Umar Akmal,2
+Umar Akmal,Umar Gul,2
+Umar Gul,Umar Akmal,1
+Mohammad Asif,Umar Gul,47
+Umar Gul,Mohammad Asif,76
+Umar Akmal,Salman Butt,13
+Salman Butt,Umar Akmal,16
+Salman Butt,Shoaib Malik,74
+Shoaib Malik,Salman Butt,53
+Shoaib Malik,Sarfraz Ahmed,13
+Sarfraz Ahmed,Shoaib Malik,3
+Khurram Manzoor,Imran Farhat,16
+Imran Farhat,Khurram Manzoor,16
+Khurram Manzoor,Umar Akmal,7
+Umar Akmal,Khurram Manzoor,15
+Khurram Manzoor,Shoaib Malik,2
+Shoaib Malik,Khurram Manzoor,19
+Khurram Manzoor,Sarfraz Ahmed,7
+Sarfraz Ahmed,Khurram Manzoor,5
+Khurram Manzoor,Mohammad Amir,47
+Mohammad Amir,Khurram Manzoor,15
+Mohammad Amir,Mohammad Asif,18
+Mohammad Asif,Mohammad Amir,10
+Fawad Alam,Imran Farhat,16
+Imran Farhat,Fawad Alam,18
+Fawad Alam,Umar Akmal,1
+Umar Akmal,Fawad Alam,4
+Umar Akmal,Shoaib Malik,49
+Shoaib Malik,Umar Akmal,40
+Imran Farhat,Umar Akmal,9
+Umar Akmal,Imran Farhat,4
+Imran Farhat,Mohammad Yousuf,8
+Mohammad Yousuf,Imran Farhat,1
+Mohammad Yousuf,Umar Gul,8
+Umar Gul,Mohammad Yousuf,1
+Imran Farhat,Faisal Iqbal,23
+Faisal Iqbal,Imran Farhat,18
+Imran Farhat,Misbah-ul-Haq,5
+Misbah-ul-Haq,Imran Farhat,5
+Kamran Akmal,Imran Farhat,22
+Imran Farhat,Kamran Akmal,16
+Mohammad Amir,Imran Farhat,25
+Imran Farhat,Mohammad Amir,58
+Imran Farhat,Umar Gul,10
+Umar Gul,Imran Farhat,24
+Imran Farhat,Mohammad Asif,0
+Mohammad Asif,Imran Farhat,0
+Imran Farhat,Danish Kaneria,12
+Danish Kaneria,Imran Farhat,16
+Kamran Akmal,Mohammad Asif,6
+Mohammad Asif,Kamran Akmal,0
+Salman Butt,Azhar Ali,100
+Azhar Ali,Salman Butt,68
+Umar Amin,Salman Butt,24
+Salman Butt,Umar Amin,18
+Salman Butt,Kamran Akmal,8
+Kamran Akmal,Salman Butt,0
+Salman Butt,Shahid Afridi,3
+Shahid Afridi,Salman Butt,31
+Salman Butt,Mohammad Amir,0
+Mohammad Amir,Salman Butt,0
+Salman Butt,Umar Gul,5
+Umar Gul,Salman Butt,7
+Salman Butt,Danish Kaneria,1
+Danish Kaneria,Salman Butt,3
+Umar Amin,Umar Akmal,20
+Umar Akmal,Umar Amin,49
+Umar Amin,Kamran Akmal,2
+Kamran Akmal,Umar Amin,9
+Kamran Akmal,Shahid Afridi,0
+Shahid Afridi,Kamran Akmal,2
+Imran Farhat,Azhar Ali,156
+Azhar Ali,Imran Farhat,110
+Azhar Ali,Umar Amin,7
+Umar Amin,Azhar Ali,3
+Umar Amin,Shoaib Malik,16
+Shoaib Malik,Umar Amin,8
+Danish Kaneria,Shoaib Malik,8
+Shoaib Malik,Danish Kaneria,16
+Umar Akmal,Azhar Ali,137
+Azhar Ali,Umar Akmal,74
+Imran Farhat,Umar Amin,0
+Umar Amin,Imran Farhat,1
+Azhar Ali,Shoaib Malik,0
+Shoaib Malik,Azhar Ali,4
+Zulqarnain Haider,Umar Amin,5
+Umar Amin,Zulqarnain Haider,16
+Umar Amin,Mohammad Amir,17
+Mohammad Amir,Umar Amin,9
+Zulqarnain Haider,Mohammad Amir,32
+Mohammad Amir,Zulqarnain Haider,16
+Zulqarnain Haider,Saeed Ajmal,50
+Saeed Ajmal,Zulqarnain Haider,50
+Zulqarnain Haider,Umar Gul,1
+Umar Gul,Zulqarnain Haider,0
+Yasir Hameed,Imran Farhat,40
+Imran Farhat,Yasir Hameed,27
+Yasir Hameed,Wahab Riaz,0
+Wahab Riaz,Yasir Hameed,0
+Wahab Riaz,Salman Butt,11
+Salman Butt,Wahab Riaz,17
+Wahab Riaz,Mohammad Yousuf,16
+Mohammad Yousuf,Wahab Riaz,15
+Mohammad Yousuf,Azhar Ali,56
+Azhar Ali,Mohammad Yousuf,33
+Azhar Ali,Kamran Akmal,4
+Kamran Akmal,Azhar Ali,10
+Azhar Ali,Saeed Ajmal,11
+Saeed Ajmal,Azhar Ali,2
+Azhar Ali,Mohammad Asif,30
+Mohammad Asif,Azhar Ali,8
+Wahab Riaz,Kamran Akmal,2
+Kamran Akmal,Wahab Riaz,10
+Wahab Riaz,Saeed Ajmal,19
+Saeed Ajmal,Wahab Riaz,10
+Yasir Hameed,Salman Butt,1
+Salman Butt,Yasir Hameed,0
+Umar Akmal,Wahab Riaz,7
+Wahab Riaz,Umar Akmal,2
+Saeed Ajmal,Umar Akmal,8
+Umar Akmal,Saeed Ajmal,16
+Mohammad Asif,Umar Akmal,1
+Umar Akmal,Mohammad Asif,46
+Taufeeq Umar,Mohammad Hafeez,514
+Mohammad Hafeez,Taufeeq Umar,650
+Taufeeq Umar,Azhar Ali,391
+Azhar Ali,Taufeeq Umar,412
+Azhar Ali,Adnan Akmal,34
+Adnan Akmal,Azhar Ali,41
+Azhar Ali,Abdur Rehman,11
+Abdur Rehman,Azhar Ali,9
+Azhar Ali,Umar Gul,12
+Umar Gul,Azhar Ali,2
+Umar Gul,Wahab Riaz,12
+Wahab Riaz,Umar Gul,5
+Umar Gul,Saeed Ajmal,15
+Saeed Ajmal,Umar Gul,19
+Misbah-ul-Haq,Adnan Akmal,139
+Adnan Akmal,Misbah-ul-Haq,117
+Misbah-ul-Haq,Abdur Rehman,72
+Abdur Rehman,Misbah-ul-Haq,44
+Abdur Rehman,Umar Gul,13
+Umar Gul,Abdur Rehman,26
+Abdur Rehman,Tanvir Ahmed (1),28
+Tanvir Ahmed (1),Abdur Rehman,30
+Abdur Rehman,Mohammad Sami,19
+Mohammad Sami,Abdur Rehman,2
+Taufeeq Umar,Younis Khan,142
+Younis Khan,Taufeeq Umar,94
+Adnan Akmal,Abdur Rehman,74
+Abdur Rehman,Adnan Akmal,72
+Umar Gul,Tanvir Ahmed (1),19
+Tanvir Ahmed (1),Umar Gul,18
+Tanvir Ahmed (1),Wahab Riaz,13
+Wahab Riaz,Tanvir Ahmed (1),7
+Misbah-ul-Haq,Umar Gul,12
+Umar Gul,Misbah-ul-Haq,22
+Mohammad Hafeez,Younis Khan,323
+Younis Khan,Mohammad Hafeez,218
+Asad Shafiq,Umar Akmal,0
+Umar Akmal,Asad Shafiq,4
+Mohammad Salman,Umar Akmal,4
+Umar Akmal,Mohammad Salman,10
+Umar Akmal,Abdur Rehman,32
+Abdur Rehman,Umar Akmal,29
+Abdur Rehman,Saeed Ajmal,36
+Saeed Ajmal,Abdur Rehman,24
+Abdur Rehman,Wahab Riaz,13
+Wahab Riaz,Abdur Rehman,5
+Mohammad Hafeez,Asad Shafiq,18
+Asad Shafiq,Mohammad Hafeez,20
+Azhar Ali,Mohammad Salman,3
+Mohammad Salman,Azhar Ali,6
+Mohammad Salman,Abdur Rehman,7
+Abdur Rehman,Mohammad Salman,3
+Tanvir Ahmed (1),Mohammad Salman,0
+Mohammad Salman,Tanvir Ahmed (1),0
+Tanvir Ahmed (1),Saeed Ajmal,96
+Saeed Ajmal,Tanvir Ahmed (1),48
+Taufeeq Umar,Asad Shafiq,50
+Asad Shafiq,Taufeeq Umar,30
+Taufeeq Umar,Misbah-ul-Haq,105
+Misbah-ul-Haq,Taufeeq Umar,122
+Misbah-ul-Haq,Mohammad Salman,1
+Mohammad Salman,Misbah-ul-Haq,8
+Tanvir Ahmed (1),Misbah-ul-Haq,4
+Misbah-ul-Haq,Tanvir Ahmed (1),6
+Younis Khan,Umar Akmal,22
+Umar Akmal,Younis Khan,15
+Younis Khan,Adnan Akmal,87
+Adnan Akmal,Younis Khan,106
+Saeed Ajmal,Younis Khan,16
+Younis Khan,Saeed Ajmal,10
+Saeed Ajmal,Sohail Khan,20
+Sohail Khan,Saeed Ajmal,11
+Saeed Ajmal,Junaid Khan,71
+Junaid Khan,Saeed Ajmal,60
+Saeed Ajmal,Aizaz Cheema,0
+Aizaz Cheema,Saeed Ajmal,0
+Asad Shafiq,Umar Gul,20
+Umar Gul,Asad Shafiq,7
+Saeed Ajmal,Asad Shafiq,40
+Asad Shafiq,Saeed Ajmal,71
+Asad Shafiq,Adnan Akmal,137
+Adnan Akmal,Asad Shafiq,113
+Adnan Akmal,Umar Gul,31
+Umar Gul,Adnan Akmal,17
+Adnan Akmal,Junaid Khan,17
+Junaid Khan,Adnan Akmal,11
+Saeed Ajmal,Adnan Akmal,31
+Adnan Akmal,Saeed Ajmal,37
+Aizaz Cheema,Adnan Akmal,1
+Adnan Akmal,Aizaz Cheema,23
+Umar Gul,Junaid Khan,16
+Junaid Khan,Umar Gul,11
+Mohammad Hafeez,Misbah-ul-Haq,184
+Misbah-ul-Haq,Mohammad Hafeez,114
+Abdur Rehman,Asad Shafiq,1
+Asad Shafiq,Abdur Rehman,4
+Aizaz Cheema,Umar Gul,0
+Umar Gul,Aizaz Cheema,15
+Mohammad Ayub,Younis Khan,10
+Younis Khan,Mohammad Ayub,34
+Mohammad Ayub,Adnan Akmal,30
+Adnan Akmal,Mohammad Ayub,23
+Abdur Rehman,Mohammad Ayub,1
+Mohammad Ayub,Abdur Rehman,5
+Mohammad Ayub,Umar Gul,2
+Umar Gul,Mohammad Ayub,2
+Taufeeq Umar,Abdur Rehman,12
+Abdur Rehman,Taufeeq Umar,36
+Taufeeq Umar,Adnan Akmal,1
+Adnan Akmal,Taufeeq Umar,0
+Asad Shafiq,Mohammad Sami,5
+Mohammad Sami,Asad Shafiq,12
+Nasir Jamshed,Mohammad Hafeez,9
+Mohammad Hafeez,Nasir Jamshed,15
+Nasir Jamshed,Azhar Ali,42
+Azhar Ali,Nasir Jamshed,23
+Sarfraz Ahmed,Umar Gul,6
+Umar Gul,Sarfraz Ahmed,2
+Sarfraz Ahmed,Saeed Ajmal,59
+Saeed Ajmal,Sarfraz Ahmed,39
+Sarfraz Ahmed,Junaid Khan,3
+Junaid Khan,Sarfraz Ahmed,0
+Junaid Khan,Rahat Ali,8
+Rahat Ali,Junaid Khan,4
+Sarfraz Ahmed,Tanvir Ahmed (1),7
+Tanvir Ahmed (1),Sarfraz Ahmed,0
+Saeed Ajmal,Mohammad Irfan,0
+Mohammad Irfan,Saeed Ajmal,6
+Tanvir Ahmed (1),Azhar Ali,0
+Azhar Ali,Tanvir Ahmed (1),0
+Tanvir Ahmed (1),Mohammad Irfan,9
+Mohammad Irfan,Tanvir Ahmed (1),2
+Imran Farhat,Mohammad Hafeez,30
+Mohammad Hafeez,Imran Farhat,14
+Younis Khan,Ehsan Adil,6
+Ehsan Adil,Younis Khan,9
+Younis Khan,Mohammad Irfan,0
+Mohammad Irfan,Younis Khan,0
+Younis Khan,Rahat Ali,54
+Rahat Ali,Younis Khan,35
+Sarfraz Ahmed,Ehsan Adil,10
+Ehsan Adil,Sarfraz Ahmed,12
+Rahat Ali,Ehsan Adil,0
+Ehsan Adil,Rahat Ali,0
+Rahat Ali,Mohammad Irfan,22
+Mohammad Irfan,Rahat Ali,6
+Shan Masood,Khurram Manzoor,75
+Khurram Manzoor,Shan Masood,63
+Azhar Ali,Khurram Manzoor,46
+Khurram Manzoor,Azhar Ali,81
+Khurram Manzoor,Misbah-ul-Haq,57
+Misbah-ul-Haq,Khurram Manzoor,57
+Adnan Akmal,Zulfiqar Babar,4
+Zulfiqar Babar,Adnan Akmal,2
+Adnan Akmal,Mohammad Irfan,5
+Mohammad Irfan,Adnan Akmal,0
+Zulfiqar Babar,Asad Shafiq,65
+Asad Shafiq,Zulfiqar Babar,55
+Zulfiqar Babar,Mohammad Irfan,0
+Mohammad Irfan,Zulfiqar Babar,0
+Zulfiqar Babar,Junaid Khan,36
+Junaid Khan,Zulfiqar Babar,7
+Asad Shafiq,Mohammad Irfan,6
+Mohammad Irfan,Asad Shafiq,14
+Asad Shafiq,Junaid Khan,9
+Junaid Khan,Asad Shafiq,8
+Ahmed Shehzad,Khurram Manzoor,163
+Khurram Manzoor,Ahmed Shehzad,153
+Ahmed Shehzad,Mohammad Hafeez,217
+Mohammad Hafeez,Ahmed Shehzad,250
+Misbah-ul-Haq,Bilawal Bhatti,13
+Bilawal Bhatti,Misbah-ul-Haq,14
+Misbah-ul-Haq,Rahat Ali,0
+Rahat Ali,Misbah-ul-Haq,1
+Misbah-ul-Haq,Junaid Khan,23
+Junaid Khan,Misbah-ul-Haq,5
+Khurram Manzoor,Mohammad Hafeez,62
+Mohammad Hafeez,Khurram Manzoor,77
+Khurram Manzoor,Asad Shafiq,7
+Asad Shafiq,Khurram Manzoor,2
+Sarfraz Ahmed,Bilawal Bhatti,35
+Bilawal Bhatti,Sarfraz Ahmed,32
+Bilawal Bhatti,Saeed Ajmal,14
+Saeed Ajmal,Bilawal Bhatti,8
+Bilawal Bhatti,Rahat Ali,0
+Rahat Ali,Bilawal Bhatti,0
+Junaid Khan,Bilawal Bhatti,2
+Bilawal Bhatti,Junaid Khan,10
+Saeed Ajmal,Rahat Ali,11
+Rahat Ali,Saeed Ajmal,8
+Misbah-ul-Haq,Mohammad Talha,4
+Mohammad Talha,Misbah-ul-Haq,2
+Abdur Rehman,Younis Khan,9
+Younis Khan,Abdur Rehman,11
+Junaid Khan,Younis Khan,8
+Younis Khan,Junaid Khan,10
+Mohammad Hafeez,Sarfraz Ahmed,23
+Sarfraz Ahmed,Mohammad Hafeez,13
+Taufeeq Umar,Shan Masood,19
+Shan Masood,Taufeeq Umar,17
+Sarfraz Ahmed,Zulfiqar Babar,22
+Zulfiqar Babar,Sarfraz Ahmed,6
+Shan Masood,Mohammad Hafeez,68
+Mohammad Hafeez,Shan Masood,116
+Yasir Shah,Mohammad Talha,0
+Mohammad Talha,Yasir Shah,0
+Mohammad Talha,Asad Shafiq,19
+Asad Shafiq,Mohammad Talha,15
+Asad Shafiq,Rahat Ali,72
+Rahat Ali,Asad Shafiq,5
+Sarfraz Ahmed,Abdur Rehman,75
+Abdur Rehman,Sarfraz Ahmed,30
+Abdur Rehman,Mohammad Talha,18
+Mohammad Talha,Abdur Rehman,9
+Mohammad Talha,Junaid Khan,0
+Junaid Khan,Mohammad Talha,0
+Ahmed Shehzad,Saeed Ajmal,4
+Saeed Ajmal,Ahmed Shehzad,4
+Sarfraz Ahmed,Mohammad Talha,21
+Mohammad Talha,Sarfraz Ahmed,4
+Sami Aslam,Mohammad Hafeez,24
+Mohammad Hafeez,Sami Aslam,40
+Yasir Shah,Junaid Khan,12
+Junaid Khan,Yasir Shah,2
+Azhar Ali,Zulfiqar Babar,9
+Zulfiqar Babar,Azhar Ali,1
+Zulfiqar Babar,Wahab Riaz,0
+Wahab Riaz,Zulfiqar Babar,9
+Ahmed Shehzad,Shan Masood,17
+Shan Masood,Ahmed Shehzad,13
+Mohammad Hafeez,Shoaib Malik,129
+Shoaib Malik,Mohammad Hafeez,99
+Shoaib Malik,Asad Shafiq,128
+Asad Shafiq,Shoaib Malik,107
+Wahab Riaz,Shoaib Malik,0
+Shoaib Malik,Wahab Riaz,2
+Rahat Ali,Imran Khan (2),0
+Imran Khan (2),Rahat Ali,0
+Shan Masood,Shoaib Malik,5
+Shoaib Malik,Shan Masood,2
+Imran Khan (2),Asad Shafiq,0
+Asad Shafiq,Imran Khan (2),1
+Zulfiqar Babar,Misbah-ul-Haq,0
+Misbah-ul-Haq,Zulfiqar Babar,0
+Mohammad Hafeez,Rahat Ali,2
+Rahat Ali,Mohammad Hafeez,0
+Rahat Ali,Mohammad Amir,8
+Mohammad Amir,Rahat Ali,19
+Shan Masood,Rahat Ali,1
+Rahat Ali,Shan Masood,4
+Shan Masood,Misbah-ul-Haq,12
+Misbah-ul-Haq,Shan Masood,5
+Sami Aslam,Yasir Shah,0
+Yasir Shah,Sami Aslam,0
+Sohail Khan,Rahat Ali,34
+Rahat Ali,Sohail Khan,15
+Younis Khan,Iftikhar Ahmed,0
+Iftikhar Ahmed,Younis Khan,4

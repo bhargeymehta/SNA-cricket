@@ -1,0 +1,699 @@
+striker,non_striker,runs
+Imrul Kayes,Tamim Iqbal,915
+Tamim Iqbal,Imrul Kayes,1324
+Tamim Iqbal,Mominul Haque,564
+Mominul Haque,Tamim Iqbal,524
+Mominul Haque,Mahmudullah,345
+Mahmudullah,Mominul Haque,268
+Mominul Haque,Shakib Al Hasan,331
+Shakib Al Hasan,Mominul Haque,329
+Shakib Al Hasan,Mushfiqur Rahim,1217
+Mushfiqur Rahim,Shakib Al Hasan,953
+Shakib Al Hasan,Sabbir Rahman,31
+Sabbir Rahman,Shakib Al Hasan,14
+Sabbir Rahman,Mehedi Hasan Miraz,12
+Mehedi Hasan Miraz,Sabbir Rahman,2
+Taskin Ahmed,Sabbir Rahman,8
+Sabbir Rahman,Taskin Ahmed,39
+Sabbir Rahman,Kamrul Islam Rabbi,37
+Kamrul Islam Rabbi,Sabbir Rahman,7
+Mominul Haque,Mehedi Hasan Miraz,12
+Mehedi Hasan Miraz,Mominul Haque,11
+Mominul Haque,Sabbir Rahman,13
+Sabbir Rahman,Mominul Haque,17
+Sabbir Rahman,Mushfiqur Rahim,179
+Mushfiqur Rahim,Sabbir Rahman,118
+Sabbir Rahman,Imrul Kayes,42
+Imrul Kayes,Sabbir Rahman,24
+Imrul Kayes,Subashis Roy,8
+Subashis Roy,Imrul Kayes,0
+Soumya Sarkar,Tamim Iqbal,244
+Tamim Iqbal,Soumya Sarkar,223
+Soumya Sarkar,Mahmudullah,197
+Mahmudullah,Soumya Sarkar,126
+Soumya Sarkar,Shakib Al Hasan,110
+Shakib Al Hasan,Soumya Sarkar,96
+Shakib Al Hasan,Nazmul Hossain Shanto,2
+Nazmul Hossain Shanto,Shakib Al Hasan,0
+Nazmul Hossain Shanto,Nurul Hasan,18
+Nurul Hasan,Nazmul Hossain Shanto,35
+Nurul Hasan,Mehedi Hasan Miraz,1
+Mehedi Hasan Miraz,Nurul Hasan,10
+Nurul Hasan,Taskin Ahmed,1
+Taskin Ahmed,Nurul Hasan,8
+Nurul Hasan,Kamrul Islam Rabbi,10
+Kamrul Islam Rabbi,Nurul Hasan,2
+Kamrul Islam Rabbi,Rubel Hossain,0
+Rubel Hossain,Kamrul Islam Rabbi,23
+Mahmudullah,Shakib Al Hasan,354
+Shakib Al Hasan,Mahmudullah,376
+Mahmudullah,Nazmul Hossain Shanto,42
+Nazmul Hossain Shanto,Mahmudullah,29
+Nazmul Hossain Shanto,Sabbir Rahman,8
+Sabbir Rahman,Nazmul Hossain Shanto,0
+Nazmul Hossain Shanto,Mehedi Hasan Miraz,2
+Mehedi Hasan Miraz,Nazmul Hossain Shanto,4
+Mehedi Hasan Miraz,Taskin Ahmed,5
+Taskin Ahmed,Mehedi Hasan Miraz,19
+Taskin Ahmed,Kamrul Islam Rabbi,25
+Kamrul Islam Rabbi,Taskin Ahmed,25
+Tamim Iqbal,Mahmudullah,226
+Mahmudullah,Tamim Iqbal,219
+Tamim Iqbal,Mushfiqur Rahim,92
+Mushfiqur Rahim,Tamim Iqbal,105
+Shakib Al Hasan,Shafiul Islam,34
+Shafiul Islam,Shakib Al Hasan,28
+Shafiul Islam,Sabbir Rahman,2
+Sabbir Rahman,Shafiul Islam,15
+Sabbir Rahman,Taijul Islam,17
+Taijul Islam,Sabbir Rahman,21
+Taijul Islam,Kamrul Islam Rabbi,29
+Kamrul Islam Rabbi,Taijul Islam,1
+Imrul Kayes,Mominul Haque,290
+Mominul Haque,Imrul Kayes,322
+Shakib Al Hasan,Shuvagata Hom,91
+Shuvagata Hom,Shakib Al Hasan,60
+Shakib Al Hasan,Mehedi Hasan Miraz,6
+Mehedi Hasan Miraz,Shakib Al Hasan,12
+Shakib Al Hasan,Taijul Islam,24
+Taijul Islam,Shakib Al Hasan,22
+Imrul Kayes,Mahmudullah,67
+Mahmudullah,Imrul Kayes,82
+Shakib Al Hasan,Imrul Kayes,34
+Imrul Kayes,Shakib Al Hasan,30
+Shuvagata Hom,Sabbir Rahman,15
+Sabbir Rahman,Shuvagata Hom,15
+Shuvagata Hom,Taijul Islam,19
+Taijul Islam,Shuvagata Hom,22
+Shuvagata Hom,Mehedi Hasan Miraz,1
+Mehedi Hasan Miraz,Shuvagata Hom,2
+Kamrul Islam Rabbi,Shuvagata Hom,7
+Shuvagata Hom,Kamrul Islam Rabbi,9
+Mushfiqur Rahim,Mehedi Hasan Miraz,236
+Mehedi Hasan Miraz,Mushfiqur Rahim,223
+Mushfiqur Rahim,Taijul Islam,58
+Taijul Islam,Mushfiqur Rahim,75
+Mushfiqur Rahim,Taskin Ahmed,30
+Taskin Ahmed,Mushfiqur Rahim,8
+Mushfiqur Rahim,Kamrul Islam Rabbi,10
+Kamrul Islam Rabbi,Mushfiqur Rahim,0
+Soumya Sarkar,Mominul Haque,62
+Mominul Haque,Soumya Sarkar,68
+Mahmudullah,Mushfiqur Rahim,462
+Mushfiqur Rahim,Mahmudullah,469
+Sabbir Rahman,Mahmudullah,52
+Mahmudullah,Sabbir Rahman,53
+Mahmudullah,Mehedi Hasan Miraz,103
+Mehedi Hasan Miraz,Mahmudullah,108
+Mehedi Hasan Miraz,Kamrul Islam Rabbi,15
+Kamrul Islam Rabbi,Mehedi Hasan Miraz,2
+Imrul Kayes,Liton Das,63
+Liton Das,Imrul Kayes,76
+Liton Das,Mominul Haque,153
+Mominul Haque,Liton Das,107
+Mominul Haque,Mushfiqur Rahim,596
+Mushfiqur Rahim,Mominul Haque,580
+Mehedi Hasan Miraz,Shafiul Islam,24
+Shafiul Islam,Mehedi Hasan Miraz,11
+Shafiul Islam,Mustafizur Rahman,15
+Mustafizur Rahman,Shafiul Islam,10
+Mushfiqur Rahim,Imrul Kayes,39
+Imrul Kayes,Mushfiqur Rahim,63
+Mahmudullah,Liton Das,122
+Liton Das,Mahmudullah,119
+Liton Das,Sabbir Rahman,5
+Sabbir Rahman,Liton Das,4
+Mustafizur Rahman,Mehedi Hasan Miraz,1
+Mehedi Hasan Miraz,Mustafizur Rahman,35
+Soumya Sarkar,Imrul Kayes,85
+Imrul Kayes,Soumya Sarkar,48
+Liton Das,Taijul Islam,72
+Taijul Islam,Liton Das,32
+Liton Das,Rubel Hossain,41
+Rubel Hossain,Liton Das,13
+Rubel Hossain,Mustafizur Rahman,0
+Mustafizur Rahman,Rubel Hossain,0
+Rubel Hossain,Subashis Roy,9
+Subashis Roy,Rubel Hossain,6
+Rubel Hossain,Taijul Islam,0
+Taijul Islam,Rubel Hossain,0
+Subashis Roy,Mustafizur Rahman,8
+Mustafizur Rahman,Subashis Roy,11
+Soumya Sarkar,Mushfiqur Rahim,43
+Mushfiqur Rahim,Soumya Sarkar,34
+Mushfiqur Rahim,Liton Das,106
+Liton Das,Mushfiqur Rahim,159
+Mushfiqur Rahim,Subashis Roy,10
+Subashis Roy,Mushfiqur Rahim,0
+Liton Das,Mehedi Hasan Miraz,9
+Mehedi Hasan Miraz,Liton Das,37
+Mehedi Hasan Miraz,Subashis Roy,3
+Subashis Roy,Mehedi Hasan Miraz,0
+Shakib Al Hasan,Mosaddek Hossain,72
+Mosaddek Hossain,Shakib Al Hasan,53
+Mosaddek Hossain,Mehedi Hasan Miraz,14
+Mehedi Hasan Miraz,Mosaddek Hossain,35
+Mosaddek Hossain,Mustafizur Rahman,0
+Mustafizur Rahman,Mosaddek Hossain,0
+Mosaddek Hossain,Subashis Roy,13
+Subashis Roy,Mosaddek Hossain,0
+Sabbir Rahman,Tamim Iqbal,38
+Tamim Iqbal,Sabbir Rahman,70
+Mushfiqur Rahim,Mosaddek Hossain,13
+Mosaddek Hossain,Mushfiqur Rahim,13
+Shakib Al Hasan,Tamim Iqbal,223
+Tamim Iqbal,Shakib Al Hasan,186
+Nasir Hossain,Mushfiqur Rahim,319
+Mushfiqur Rahim,Nasir Hossain,262
+Nasir Hossain,Mehedi Hasan Miraz,39
+Mehedi Hasan Miraz,Nasir Hossain,26
+Nasir Hossain,Taijul Islam,2
+Taijul Islam,Nasir Hossain,4
+Taijul Islam,Shafiul Islam,0
+Shafiul Islam,Taijul Islam,0
+Taijul Islam,Tamim Iqbal,4
+Tamim Iqbal,Taijul Islam,14
+Nasir Hossain,Sabbir Rahman,0
+Sabbir Rahman,Nasir Hossain,0
+Mehedi Hasan Miraz,Taijul Islam,13
+Taijul Islam,Mehedi Hasan Miraz,13
+Taijul Islam,Mustafizur Rahman,16
+Mustafizur Rahman,Taijul Islam,10
+Nasir Hossain,Imrul Kayes,1
+Imrul Kayes,Nasir Hossain,4
+Nasir Hossain,Shakib Al Hasan,108
+Shakib Al Hasan,Nasir Hossain,112
+Mahmudullah,Mosaddek Hossain,24
+Mosaddek Hossain,Mahmudullah,16
+Mahmudullah,Sunzamul Islam,33
+Sunzamul Islam,Mahmudullah,24
+Mahmudullah,Taijul Islam,46
+Taijul Islam,Mahmudullah,40
+Mahmudullah,Mustafizur Rahman,42
+Mustafizur Rahman,Mahmudullah,24
+Mehedi Hasan Miraz,Abdur Razzak,1
+Abdur Razzak,Mehedi Hasan Miraz,3
+Liton Das,Tamim Iqbal,14
+Tamim Iqbal,Liton Das,7
+Mushfiqur Rahim,Nurul Hasan,0
+Nurul Hasan,Mushfiqur Rahim,0
+Abu Jayed,Kamrul Islam Rabbi,0
+Kamrul Islam Rabbi,Abu Jayed,0
+Shakib Al Hasan,Nurul Hasan,0
+Nurul Hasan,Shakib Al Hasan,0
+Taijul Islam,Abu Jayed,1
+Abu Jayed,Taijul Islam,7
+Mominul Haque,Mohammad Mithun,58
+Mohammad Mithun,Mominul Haque,53
+Mehedi Hasan Miraz,Nayeem Hasan,29
+Nayeem Hasan,Mehedi Hasan Miraz,11
+Nayeem Hasan,Taijul Islam,23
+Taijul Islam,Nayeem Hasan,39
+Shakib Al Hasan,Mohammad Mithun,1
+Mohammad Mithun,Shakib Al Hasan,2
+Mohammad Mithun,Mushfiqur Rahim,38
+Mushfiqur Rahim,Mohammad Mithun,26
+Mahmudullah,Nayeem Hasan,35
+Nayeem Hasan,Mahmudullah,17
+Soumya Sarkar,Shadman Islam,19
+Shadman Islam,Soumya Sarkar,23
+Shadman Islam,Mominul Haque,24
+Mominul Haque,Shadman Islam,46
+Shadman Islam,Mohammad Mithun,57
+Mohammad Mithun,Shadman Islam,41
+Shadman Islam,Shakib Al Hasan,14
+Shakib Al Hasan,Shadman Islam,19
+Mominul Haque,Nazmul Hossain Shanto,109
+Nazmul Hossain Shanto,Mominul Haque,95
+Mushfiqur Rahim,Ariful Haque,27
+Ariful Haque,Mushfiqur Rahim,21
+Ariful Haque,Mehedi Hasan Miraz,20
+Mehedi Hasan Miraz,Ariful Haque,28
+Ariful Haque,Taijul Islam,16
+Taijul Islam,Ariful Haque,8
+Ariful Haque,Nazmul Islam,12
+Nazmul Islam,Ariful Haque,4
+Ariful Haque,Abu Jayed,14
+Abu Jayed,Ariful Haque,0
+Nazmul Hossain Shanto,Mushfiqur Rahim,2
+Mushfiqur Rahim,Nazmul Hossain Shanto,3
+Mohammad Mithun,Mahmudullah,72
+Mahmudullah,Mohammad Mithun,88
+Ariful Haque,Mahmudullah,5
+Mahmudullah,Ariful Haque,3
+Shadman Islam,Tamim Iqbal,88
+Tamim Iqbal,Shadman Islam,133
+Tamim Iqbal,Mohammad Mithun,33
+Mohammad Mithun,Tamim Iqbal,11
+Liton Das,Abu Jayed,15
+Abu Jayed,Liton Das,2
+Liton Das,Khaled Ahmed,8
+Khaled Ahmed,Liton Das,0
+Ebadat Hossain,Liton Das,0
+Liton Das,Ebadat Hossain,0
+Mahmudullah,Abu Jayed,36
+Abu Jayed,Mahmudullah,3
+Khaled Ahmed,Mahmudullah,4
+Mahmudullah,Khaled Ahmed,10
+Khaled Ahmed,Ebadat Hossain,0
+Ebadat Hossain,Khaled Ahmed,0
+Liton Das,Mustafizur Rahman,0
+Mustafizur Rahman,Liton Das,0
+Abu Jayed,Ebadat Hossain,11
+Ebadat Hossain,Abu Jayed,3
+Mohammad Mithun,Soumya Sarkar,24
+Soumya Sarkar,Mohammad Mithun,28
+Imrul Kayes,Shadman Islam,16
+Shadman Islam,Imrul Kayes,20
+Mushfiqur Rahim,Abu Jayed,0
+Abu Jayed,Mushfiqur Rahim,0
+Shadman Islam,Mushfiqur Rahim,12
+Mushfiqur Rahim,Shadman Islam,23
+Shadman Islam,Mahmudullah,8
+Mahmudullah,Shadman Islam,0
+Liton Das,Nayeem Hasan,9
+Nayeem Hasan,Liton Das,0
+Nayeem Hasan,Ebadat Hossain,8
+Ebadat Hossain,Nayeem Hasan,1
+Al-Amin Hossain,Nayeem Hasan,0
+Nayeem Hasan,Al-Amin Hossain,3
+Al-Amin Hossain,Abu Jayed,10
+Abu Jayed,Al-Amin Hossain,2
+Imrul Kayes,Mohammad Mithun,1
+Mohammad Mithun,Imrul Kayes,6
+Mushfiqur Rahim,Ebadat Hossain,0
+Ebadat Hossain,Mushfiqur Rahim,0
+Mushfiqur Rahim,Al-Amin Hossain,48
+Al-Amin Hossain,Mushfiqur Rahim,17
+Soumya Sarkar,Liton Das,17
+Liton Das,Soumya Sarkar,25
+Mominul Haque,Mosaddek Hossain,18
+Mosaddek Hossain,Mominul Haque,8
+Mosaddek Hossain,Taijul Islam,31
+Taijul Islam,Mosaddek Hossain,14
+Mosaddek Hossain,Nayeem Hasan,4
+Nayeem Hasan,Mosaddek Hossain,7
+Shadman Islam,Liton Das,21
+Liton Das,Shadman Islam,9
+Shadman Islam,Mosaddek Hossain,8
+Mosaddek Hossain,Shadman Islam,12
+Soumya Sarkar,Mehedi Hasan Miraz,11
+Mehedi Hasan Miraz,Soumya Sarkar,12
+Soumya Sarkar,Taijul Islam,0
+Taijul Islam,Soumya Sarkar,0
+Soumya Sarkar,Nayeem Hasan,2
+Nayeem Hasan,Soumya Sarkar,1
+Saif Hassan,Tamim Iqbal,24
+Tamim Iqbal,Saif Hassan,36
+Tamim Iqbal,Nazmul Hossain Shanto,42
+Nazmul Hossain Shanto,Tamim Iqbal,47
+Mohammad Mithun,Liton Das,20
+Liton Das,Mohammad Mithun,33
+Mohammad Mithun,Taijul Islam,27
+Taijul Islam,Mohammad Mithun,24
+Rubel Hossain,Mohammad Mithun,1
+Mohammad Mithun,Rubel Hossain,10
+Abu Jayed,Mohammad Mithun,0
+Mohammad Mithun,Abu Jayed,4
+Mominul Haque,Taijul Islam,0
+Taijul Islam,Mominul Haque,0
+Junaid Siddique,Tamim Iqbal,346
+Tamim Iqbal,Junaid Siddique,548
+Tamim Iqbal,Habibul Bashar,15
+Habibul Bashar,Tamim Iqbal,23
+Mohammad Ashraful,Tamim Iqbal,36
+Tamim Iqbal,Mohammad Ashraful,19
+Tamim Iqbal,Shahriar Nafees,207
+Shahriar Nafees,Tamim Iqbal,223
+Tamim Iqbal,Aftab Ahmed,35
+Aftab Ahmed,Tamim Iqbal,1
+Mushfiqur Rahim,Mashrafe Mortaza,52
+Mashrafe Mortaza,Mushfiqur Rahim,82
+Mushfiqur Rahim,Shahadat Hossain,93
+Shahadat Hossain,Mushfiqur Rahim,73
+Mushfiqur Rahim,Enamul Haque jnr,4
+Enamul Haque jnr,Mushfiqur Rahim,2
+Enamul Haque jnr,Sajedul Islam,0
+Sajedul Islam,Enamul Haque jnr,5
+Junaid Siddique,Habibul Bashar,6
+Habibul Bashar,Junaid Siddique,5
+Habibul Bashar,Mohammad Ashraful,19
+Mohammad Ashraful,Habibul Bashar,4
+Mohammad Ashraful,Shahriar Nafees,99
+Shahriar Nafees,Mohammad Ashraful,55
+Shahriar Nafees,Aftab Ahmed,36
+Aftab Ahmed,Shahriar Nafees,21
+Shahriar Nafees,Mushfiqur Rahim,9
+Mushfiqur Rahim,Shahriar Nafees,6
+Shahriar Nafees,Mashrafe Mortaza,0
+Mashrafe Mortaza,Shahriar Nafees,10
+Enamul Haque jnr,Shahriar Nafees,6
+Shahriar Nafees,Enamul Haque jnr,13
+Enamul Haque jnr,Shahadat Hossain,0
+Shahadat Hossain,Enamul Haque jnr,0
+Junaid Siddique,Mohammad Ashraful,96
+Mohammad Ashraful,Junaid Siddique,101
+Mohammad Ashraful,Aftab Ahmed,31
+Aftab Ahmed,Mohammad Ashraful,23
+Aftab Ahmed,Mushfiqur Rahim,2
+Mushfiqur Rahim,Aftab Ahmed,8
+Aftab Ahmed,Shakib Al Hasan,65
+Shakib Al Hasan,Aftab Ahmed,43
+Aftab Ahmed,Shahadat Hossain,0
+Shahadat Hossain,Aftab Ahmed,1
+Aftab Ahmed,Sajedul Islam,0
+Sajedul Islam,Aftab Ahmed,6
+Mashrafe Mortaza,Aftab Ahmed,15
+Aftab Ahmed,Mashrafe Mortaza,6
+Junaid Siddique,Shahriar Nafees,24
+Shahriar Nafees,Junaid Siddique,48
+Shahriar Nafees,Habibul Bashar,19
+Habibul Bashar,Shahriar Nafees,11
+Habibul Bashar,Aftab Ahmed,9
+Aftab Ahmed,Habibul Bashar,5
+Habibul Bashar,Mushfiqur Rahim,1
+Mushfiqur Rahim,Habibul Bashar,0
+Shakib Al Hasan,Habibul Bashar,5
+Habibul Bashar,Shakib Al Hasan,5
+Shakib Al Hasan,Shahadat Hossain,40
+Shahadat Hossain,Shakib Al Hasan,6
+Shakib Al Hasan,Sajedul Islam,0
+Sajedul Islam,Shakib Al Hasan,3
+Mashrafe Mortaza,Shakib Al Hasan,43
+Shakib Al Hasan,Mashrafe Mortaza,67
+Mushfiqur Rahim,Mohammad Rafique,0
+Mohammad Rafique,Mushfiqur Rahim,0
+Mashrafe Mortaza,Shahadat Hossain,84
+Shahadat Hossain,Mashrafe Mortaza,24
+Aftab Ahmed,Junaid Siddique,56
+Junaid Siddique,Aftab Ahmed,69
+Mohammad Rafique,Shakib Al Hasan,20
+Shakib Al Hasan,Mohammad Rafique,5
+Shahriar Nafees,Abdur Razzak,28
+Abdur Razzak,Shahriar Nafees,33
+Mohammad Rafique,Mashrafe Mortaza,4
+Mashrafe Mortaza,Mohammad Rafique,1
+Shakib Al Hasan,Mohammad Ashraful,56
+Mohammad Ashraful,Shakib Al Hasan,53
+Mushfiqur Rahim,Abdur Razzak,3
+Abdur Razzak,Mushfiqur Rahim,15
+Abdur Razzak,Mohammad Rafique,0
+Mohammad Rafique,Abdur Razzak,0
+Abdur Razzak,Shahadat Hossain,38
+Shahadat Hossain,Abdur Razzak,32
+Abdur Razzak,Mashrafe Mortaza,6
+Mashrafe Mortaza,Abdur Razzak,26
+Junaid Siddique,Imrul Kayes,70
+Imrul Kayes,Junaid Siddique,52
+Mohammad Ashraful,Imrul Kayes,3
+Imrul Kayes,Mohammad Ashraful,9
+Mehrab Hossain jnr,Mohammad Ashraful,20
+Mohammad Ashraful,Mehrab Hossain jnr,22
+Mehrab Hossain jnr,Shakib Al Hasan,4
+Shakib Al Hasan,Mehrab Hossain jnr,14
+Mehrab Hossain jnr,Mushfiqur Rahim,14
+Mushfiqur Rahim,Mehrab Hossain jnr,5
+Naeem Islam,Mushfiqur Rahim,132
+Mushfiqur Rahim,Naeem Islam,173
+Shahadat Hossain,Mahbubul Alam,4
+Mahbubul Alam,Shahadat Hossain,1
+Mehrab Hossain jnr,Naeem Islam,6
+Naeem Islam,Mehrab Hossain jnr,3
+Mashrafe Mortaza,Mehrab Hossain jnr,6
+Mehrab Hossain jnr,Mashrafe Mortaza,8
+Mehrab Hossain jnr,Shahadat Hossain,19
+Shahadat Hossain,Mehrab Hossain jnr,16
+Mehrab Hossain jnr,Mahbubul Alam,7
+Mahbubul Alam,Mehrab Hossain jnr,0
+Mehrab Hossain jnr,Junaid Siddique,3
+Junaid Siddique,Mehrab Hossain jnr,11
+Junaid Siddique,Raqibul Hasan,79
+Raqibul Hasan,Junaid Siddique,63
+Junaid Siddique,Shakib Al Hasan,14
+Shakib Al Hasan,Junaid Siddique,50
+Mushfiqur Rahim,Junaid Siddique,95
+Junaid Siddique,Mushfiqur Rahim,77
+Mushfiqur Rahim,Mahbubul Alam,49
+Mahbubul Alam,Mushfiqur Rahim,1
+Raqibul Hasan,Mohammad Ashraful,43
+Mohammad Ashraful,Raqibul Hasan,60
+Raqibul Hasan,Shakib Al Hasan,82
+Shakib Al Hasan,Raqibul Hasan,107
+Raqibul Hasan,Mushfiqur Rahim,42
+Mushfiqur Rahim,Raqibul Hasan,37
+Raqibul Hasan,Mashrafe Mortaza,12
+Mashrafe Mortaza,Raqibul Hasan,19
+Mashrafe Mortaza,Mahbubul Alam,3
+Mahbubul Alam,Mashrafe Mortaza,1
+Tamim Iqbal,Rajin Saleh,0
+Rajin Saleh,Tamim Iqbal,0
+Mehrab Hossain jnr,Tamim Iqbal,7
+Tamim Iqbal,Mehrab Hossain jnr,5
+Mohammad Ashraful,Mushfiqur Rahim,157
+Mushfiqur Rahim,Mohammad Ashraful,189
+Mashrafe Mortaza,Enamul Haque jnr,5
+Enamul Haque jnr,Mashrafe Mortaza,4
+Shahadat Hossain,Rubel Hossain,33
+Rubel Hossain,Shahadat Hossain,13
+Tamim Iqbal,Enamul Haque jnr,12
+Enamul Haque jnr,Tamim Iqbal,13
+Mahmudullah,Shahadat Hossain,42
+Shahadat Hossain,Mahmudullah,56
+Mahmudullah,Rubel Hossain,52
+Rubel Hossain,Mahmudullah,11
+Shafiul Islam,Mahmudullah,25
+Mahmudullah,Shafiul Islam,117
+Shafiul Islam,Rubel Hossain,15
+Rubel Hossain,Shafiul Islam,9
+Imrul Kayes,Aftab Ahmed,12
+Aftab Ahmed,Imrul Kayes,8
+Shahadat Hossain,Shafiul Islam,17
+Shafiul Islam,Shahadat Hossain,13
+Junaid Siddique,Jahurul Islam,83
+Jahurul Islam,Junaid Siddique,84
+Jahurul Islam,Mohammad Ashraful,85
+Mohammad Ashraful,Jahurul Islam,84
+Jahurul Islam,Shakib Al Hasan,14
+Shakib Al Hasan,Jahurul Islam,18
+Rubel Hossain,Robiul Islam,24
+Robiul Islam,Rubel Hossain,22
+Shahadat Hossain,Junaid Siddique,0
+Junaid Siddique,Shahadat Hossain,1
+Mahmudullah,Robiul Islam,21
+Robiul Islam,Mahmudullah,0
+Jahurul Islam,Tamim Iqbal,66
+Tamim Iqbal,Jahurul Islam,100
+Mushfiqur Rahim,Shafiul Islam,31
+Shafiul Islam,Mushfiqur Rahim,24
+Mahmudullah,Abdur Razzak,20
+Abdur Razzak,Mahmudullah,1
+Shafiul Islam,Abdur Razzak,11
+Abdur Razzak,Shafiul Islam,61
+Tamim Iqbal,Shahadat Hossain,10
+Shahadat Hossain,Tamim Iqbal,2
+Abdur Razzak,Rubel Hossain,4
+Rubel Hossain,Abdur Razzak,4
+Junaid Siddique,Mahmudullah,21
+Mahmudullah,Junaid Siddique,30
+Naeem Islam,Abdur Razzak,16
+Abdur Razzak,Naeem Islam,4
+Shahadat Hossain,Naeem Islam,22
+Naeem Islam,Shahadat Hossain,35
+Rubel Hossain,Naeem Islam,22
+Naeem Islam,Rubel Hossain,18
+Naeem Islam,Shafiul Islam,19
+Shafiul Islam,Naeem Islam,53
+Jahurul Islam,Mahmudullah,9
+Mahmudullah,Jahurul Islam,6
+Naeem Islam,Shakib Al Hasan,97
+Shakib Al Hasan,Naeem Islam,188
+Abdur Razzak,Shakib Al Hasan,8
+Shakib Al Hasan,Abdur Razzak,9
+Shakib Al Hasan,Rubel Hossain,10
+Rubel Hossain,Shakib Al Hasan,0
+Tamim Iqbal,Raqibul Hasan,66
+Raqibul Hasan,Tamim Iqbal,50
+Rubel Hossain,Mushfiqur Rahim,5
+Mushfiqur Rahim,Rubel Hossain,55
+Shahadat Hossain,Mohammad Ashraful,38
+Mohammad Ashraful,Shahadat Hossain,25
+Mohammad Ashraful,Mahmudullah,45
+Mahmudullah,Mohammad Ashraful,37
+Imrul Kayes,Shahriar Nafees,28
+Shahriar Nafees,Imrul Kayes,15
+Shahriar Nafees,Raqibul Hasan,34
+Raqibul Hasan,Shahriar Nafees,9
+Shahriar Nafees,Naeem Islam,16
+Naeem Islam,Shahriar Nafees,10
+Naeem Islam,Nasir Hossain,37
+Nasir Hossain,Naeem Islam,77
+Elias Sunny,Naeem Islam,0
+Naeem Islam,Elias Sunny,0
+Raqibul Hasan,Imrul Kayes,0
+Imrul Kayes,Raqibul Hasan,10
+Nasir Hossain,Suhrawadi Shuvo,15
+Suhrawadi Shuvo,Nasir Hossain,15
+Nasir Hossain,Shahadat Hossain,58
+Shahadat Hossain,Nasir Hossain,19
+Naeem Islam,Suhrawadi Shuvo,0
+Suhrawadi Shuvo,Naeem Islam,0
+Nazimuddin,Tamim Iqbal,19
+Tamim Iqbal,Nazimuddin,47
+Nazimuddin,Shahriar Nafees,19
+Shahriar Nafees,Nazimuddin,28
+Nazimuddin,Mohammad Ashraful,1
+Mohammad Ashraful,Nazimuddin,1
+Nazimuddin,Mushfiqur Rahim,31
+Mushfiqur Rahim,Nazimuddin,24
+Nazimuddin,Shakib Al Hasan,34
+Shakib Al Hasan,Nazimuddin,59
+Mahmudullah,Nazimuddin,31
+Nazimuddin,Mahmudullah,19
+Nasir Hossain,Mahmudullah,91
+Mahmudullah,Nasir Hossain,108
+Elias Sunny,Nasir Hossain,2
+Nasir Hossain,Elias Sunny,14
+Nasir Hossain,Rubel Hossain,14
+Rubel Hossain,Nasir Hossain,3
+Nazimuddin,Nasir Hossain,2
+Nasir Hossain,Nazimuddin,3
+Elias Sunny,Mushfiqur Rahim,18
+Mushfiqur Rahim,Elias Sunny,32
+Elias Sunny,Shahadat Hossain,18
+Shahadat Hossain,Elias Sunny,36
+Mahmudullah,Shahriar Nafees,0
+Shahriar Nafees,Mahmudullah,5
+Shahriar Nafees,Nasir Hossain,15
+Nasir Hossain,Shahriar Nafees,7
+Shahriar Nafees,Shakib Al Hasan,76
+Shakib Al Hasan,Shahriar Nafees,111
+Shahadat Hossain,Nazmul Hossain,1
+Nazmul Hossain,Shahadat Hossain,0
+Robiul Islam,Shahadat Hossain,0
+Shahadat Hossain,Robiul Islam,6
+Elias Sunny,Nazmul Hossain,0
+Nazmul Hossain,Elias Sunny,2
+Nazmul Hossain,Robiul Islam,6
+Robiul Islam,Nazmul Hossain,0
+Tamim Iqbal,Naeem Islam,28
+Naeem Islam,Tamim Iqbal,16
+Nasir Hossain,Sohag Gazi,156
+Sohag Gazi,Nasir Hossain,143
+Mahmudullah,Sohag Gazi,16
+Sohag Gazi,Mahmudullah,19
+Abul Hasan,Mahmudullah,108
+Mahmudullah,Abul Hasan,75
+Abul Hasan,Rubel Hossain,12
+Rubel Hossain,Abul Hasan,26
+Nasir Hossain,Abul Hasan,44
+Abul Hasan,Nasir Hossain,17
+Anamul Haque,Jahurul Islam,4
+Jahurul Islam,Anamul Haque,20
+Anamul Haque,Mohammad Ashraful,10
+Mohammad Ashraful,Anamul Haque,30
+Mominul Haque,Mohammad Ashraful,60
+Mohammad Ashraful,Mominul Haque,49
+Abul Hasan,Elias Sunny,0
+Elias Sunny,Abul Hasan,0
+Abul Hasan,Shahadat Hossain,7
+Shahadat Hossain,Abul Hasan,13
+Mominul Haque,Jahurul Islam,55
+Jahurul Islam,Mominul Haque,35
+Mominul Haque,Nasir Hossain,1
+Nasir Hossain,Mominul Haque,10
+Robiul Islam,Nasir Hossain,6
+Nasir Hossain,Robiul Islam,22
+Mushfiqur Rahim,Sohag Gazi,28
+Sohag Gazi,Mushfiqur Rahim,53
+Mushfiqur Rahim,Abul Hasan,18
+Abul Hasan,Mushfiqur Rahim,6
+Abul Hasan,Robiul Islam,15
+Robiul Islam,Abul Hasan,10
+Shahriar Nafees,Jahurul Islam,40
+Jahurul Islam,Shahriar Nafees,34
+Sohag Gazi,Enamul Haque jnr,1
+Enamul Haque jnr,Sohag Gazi,2
+Rubel Hossain,Sohag Gazi,4
+Sohag Gazi,Rubel Hossain,5
+Sohag Gazi,Robiul Islam,82
+Robiul Islam,Sohag Gazi,33
+Mohammad Ashraful,Nasir Hossain,21
+Nasir Hossain,Mohammad Ashraful,22
+Enamul Haque jnr,Rubel Hossain,4
+Rubel Hossain,Enamul Haque jnr,4
+Enamul Haque jnr,Robiul Islam,0
+Robiul Islam,Enamul Haque jnr,0
+Nasir Hossain,Ziaur Rahman,20
+Ziaur Rahman,Nasir Hossain,14
+Sajedul Islam,Nasir Hossain,4
+Nasir Hossain,Sajedul Islam,22
+Sajedul Islam,Robiul Islam,0
+Robiul Islam,Sajedul Islam,24
+Anamul Haque,Tamim Iqbal,56
+Tamim Iqbal,Anamul Haque,69
+Anamul Haque,Marshall Ayub,3
+Marshall Ayub,Anamul Haque,3
+Marshall Ayub,Mominul Haque,31
+Mominul Haque,Marshall Ayub,110
+Sohag Gazi,Abdur Razzak,22
+Abdur Razzak,Sohag Gazi,8
+Tamim Iqbal,Marshall Ayub,58
+Marshall Ayub,Tamim Iqbal,79
+Abdur Razzak,Al-Amin Hossain,19
+Al-Amin Hossain,Abdur Razzak,6
+Shamsur Rahman,Tamim Iqbal,116
+Tamim Iqbal,Shamsur Rahman,104
+Shamsur Rahman,Marshall Ayub,13
+Marshall Ayub,Shamsur Rahman,12
+Shamsur Rahman,Mominul Haque,54
+Mominul Haque,Shamsur Rahman,73
+Robiul Islam,Al-Amin Hossain,4
+Al-Amin Hossain,Robiul Islam,13
+Rubel Hossain,Al-Amin Hossain,17
+Al-Amin Hossain,Rubel Hossain,32
+Shamsur Rahman,Imrul Kayes,122
+Imrul Kayes,Shamsur Rahman,111
+Mahmudullah,Al-Amin Hossain,10
+Al-Amin Hossain,Mahmudullah,3
+Shuvagata Hom,Mushfiqur Rahim,33
+Mushfiqur Rahim,Shuvagata Hom,44
+Shafiul Islam,Robiul Islam,0
+Robiul Islam,Shafiul Islam,0
+Shafiul Islam,Al-Amin Hossain,4
+Al-Amin Hossain,Shafiul Islam,0
+Shahadat Hossain,Taijul Islam,12
+Taijul Islam,Shahadat Hossain,28
+Taijul Islam,Jubair Hossain,16
+Jubair Hossain,Taijul Islam,6
+Jubair Hossain,Al-Amin Hossain,1
+Al-Amin Hossain,Jubair Hossain,9
+Jubair Hossain,Shahadat Hossain,1
+Shahadat Hossain,Jubair Hossain,6
+Jubair Hossain,Rubel Hossain,5
+Rubel Hossain,Jubair Hossain,45
+Shuvagata Hom,Mahmudullah,34
+Mahmudullah,Shuvagata Hom,36
+Shuvagata Hom,Shahadat Hossain,11
+Shahadat Hossain,Shuvagata Hom,3
+Rubel Hossain,Shuvagata Hom,10
+Shuvagata Hom,Rubel Hossain,6
+Shuvagata Hom,Shafiul Islam,12
+Shafiul Islam,Shuvagata Hom,10
+Mominul Haque,Shuvagata Hom,11
+Shuvagata Hom,Mominul Haque,3
+Shakib Al Hasan,Liton Das,45
+Liton Das,Shakib Al Hasan,42
+Mohammad Shahid,Liton Das,25
+Liton Das,Mohammad Shahid,9
+Mustafizur Rahman,Jubair Hossain,0
+Jubair Hossain,Mustafizur Rahman,0
+Nasir Hossain,Mohammad Shahid,0
+Mohammad Shahid,Nasir Hossain,1
+Shuvagata Hom,Mohammad Shahid,32
+Mohammad Shahid,Shuvagata Hom,24
+Shakib Al Hasan,Mohammad Shahid,62
+Mohammad Shahid,Shakib Al Hasan,1
+Liton Das,Shuvagata Hom,34
+Shuvagata Hom,Liton Das,9
+Taijul Islam,Mohammad Shahid,4
+Mohammad Shahid,Taijul Islam,6
